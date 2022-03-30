@@ -1,8 +1,10 @@
 ---
 title: "Uniswap Report Walkthrough"
 author: "Omni Analytics Group"
-date: "3/21/2022"
-output: html_document
+date: "3/30/2022"
+output: 
+    html_document:
+        self_contained: false
 ---
 
 ```{r setup, include=FALSE}
