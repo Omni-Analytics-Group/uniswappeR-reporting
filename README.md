@@ -273,7 +273,7 @@ respectively.</p>
     group_by(Date) %&gt;%
     summarise(Count = n()) %&gt;%
     ggplot(aes(x = Date, y = Count)) +
-    geom_point() + 
+    geom_point() +
     geom_line() +
     scale_y_continuous(breaks = scales::pretty_breaks(n = 10)) +
     scale_x_date(date_breaks = &quot;1 months&quot;, date_labels = &quot;%b %y&quot;) +
@@ -294,7 +294,7 @@ p72 &lt;- uni %&gt;%
     ungroup() %&gt;%
     complete(Date = seq.Date(min(Date), max(Date), by=&quot;day&quot;), fill = list(Count = 0)) %&gt;%
     ggplot(aes(x = Date, y = Count)) +
-    geom_point() + 
+    geom_point() +
     geom_line() +
     scale_y_continuous(breaks = scales::pretty_breaks(n = 5)) +
     scale_x_date(date_breaks = &quot;1 months&quot;, date_labels = &quot;%b %y&quot;) +
@@ -321,7 +321,7 @@ and DAI pair respectively.</p>
     ungroup() %&gt;%
     complete(Date = seq.Date(min(Date), max(Date), by=&quot;day&quot;), fill = list(Count = 0)) %&gt;%
     ggplot(aes(x = Date, y = Count)) +
-    geom_point() + 
+    geom_point() +
     geom_line() +
     scale_y_continuous(breaks = scales::pretty_breaks(n = 5)) +
     scale_x_date(date_breaks = &quot;1 months&quot;, date_labels = &quot;%b %y&quot;) +
@@ -342,7 +342,7 @@ p74 &lt;- uni %&gt;%
     ungroup() %&gt;%
     complete(Date = seq.Date(min(Date), max(Date), by=&quot;day&quot;), fill = list(Count = 0)) %&gt;%
     ggplot(aes(x = Date, y = Count)) +
-    geom_point() + 
+    geom_point() +
     geom_line() +
     scale_y_continuous(breaks = scales::pretty_breaks(n = 3)) +
     scale_x_date(date_breaks = &quot;1 months&quot;, date_labels = &quot;%b %y&quot;) +
@@ -386,7 +386,7 @@ image_write(im, &quot;uniswap_invert.png&quot;)
 # file.remove(&quot;uniswap.png&quot;)
 
 knitr::include_graphics(&quot;uniswap_invert.png&quot;)</code></pre>
-<p><img src="uniswap_invert.png" width="1500" /></p>
+<p><img src="outputs/uniswap_invert.png" width="1500" /></p>
 </div>
 <div id="deployment" class="section level2">
 <h2>Deployment</h2>
