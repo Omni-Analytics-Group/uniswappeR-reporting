@@ -18,6 +18,8 @@ From here, we binded together the data around each token to create area plots th
 
 ## Results
 
+We see that the trend in liquidity added/removed over time is highly dependent on the token. For example, $PSP shows a significant amount of added/removed liquidity at the beginning, with this leveling out significantly later on. This stands in contrast to, for example, $BADGER, which showed the largest amount of added/removed liquidity towards the end of the two week period. As a general rule, across the nine tokens, liquidity was added more frequently than removed, and that has yielded positive liquidity balances across the board.
+
 ## Conclusion
 
-[Rehash eveything quickly] and [include possible extensions of this analysis...ie extend to a longer time frame, include more tokens,  compare liquidity to overall market cap]
+Ultimately, our foray into this data yielded some interesting findings about how the liquidity distributions have varied across the nine tokens. But, it immediately becomes clear that there is much more we could do. For one, this analysis could be expanded beyond the tokens from this, and potentially an API could be deployed to allow a similar dataset and chart to be generated for the token of one's choosing. In addition, the time frame need not be restricted to this two week period, and could be expanded far beyond. Lastly, the liquidity could also be compared to each token's overall Market Capitalization, to give even more insight into the token's performance and how it has behaved on the Uniswap platform.
