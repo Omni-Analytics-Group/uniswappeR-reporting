@@ -147,7 +147,7 @@ And now, we are ready for the exciting part. The plots!
 
 ## Visualizations
 
-One important concept that ou may have picked up on by now is the fact that, rather than just returning the result in this README, we are storing the results in variables for later use. That is how we will ultimately produce the full report. We will keep up that theme in this section, where every plot we produce will be stored in a variable for later reference.
+One important concept that you may have picked up on by now is the fact that, rather than just returning the result in this README, we are storing the results in variables for later use. That is how we will ultimately produce the full report. We will keep up that theme in this section, where every plot we produce will be stored in a variable for later reference.
 
 To start, we compute the daily distribution of contracts deployed on Uniswap.
 
