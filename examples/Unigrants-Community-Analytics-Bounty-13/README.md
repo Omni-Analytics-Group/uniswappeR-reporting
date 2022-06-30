@@ -14,7 +14,7 @@ Using the `uniswappeR` package, we called the **get_liq_data** function to extra
 
 From here, we binded together the data around each token to create area plots that track the amount of liquidity added and removed over time.  To follow up, we produced cumulative area plots that show the total amount of liquidity of each. The areas are colored by whether, at the particular time points, the liquidity for each of the nine tokens was positive. Added liquidity is shown in green, while removed liquidity is shown in bed. The overall blue area comprises the total liquidity balance as a function of time.
 
-![The results][AirdropLiq.jpeg]
+![The results](AirdropLiq.jpeg)
 
 ## Results
 
