@@ -34,6 +34,6 @@ We ended up placing this on a pseudo-logscale, to help highly the distribution d
 
 ![Consensus Score Distribution](consensus.png)
 
-## Conclusion: 
+## Conclusion
 
-[Rehash eveything quickly] and [include possible extensions of this analysis...ie Strength of association calculations so show which 1-gram and 2-grams are more highly correlated with a proposal passing or being rejected, extended wallet analysis to see if wallets with higher wallet balalnces have their proposals passed at a higher rate than low wallet balances, investiage for "instigators" people who vote counter to the general consensus on multiple proposals, cluser analysis to find groups of wallets that vote on the same proposals in the same way] (edited) 
+Ultimately, we found that there is little dissent in terms of the voting results across the 56 analyzed proposals. With that said, however, our results immediately suggested some further possible extensions. For instance, a Strength of Association analysis showing which 1-grams and 2-grams are most highly correlated with proposals being passed or rejected could provide some insight onto the types of proposals that have the most success. Likewise, analyzing wallet balances to determine if there is a correlation between wallet balance and proposals being passed could be illuminating. Finally, an investigation into whether there are particular "instigators" which tend to vote against the consensus could highly some trolls within the community.
