@@ -1,0 +1,1270 @@
+"id","ipfs","author","created","network","type","title","body","start","end","state","votes","choices","scores_state","scores","space_id"
+"Qma8KF8jTV3kwBFdjfwE9jvLpPYVMdY6RVS9pJZ6QGEur6","Qma8KF8jTV3kwBFdjfwE9jvLpPYVMdY6RVS9pJZ6QGEur6","0x00000583Cf2C6aA7488471fbe12ac7f0DfeB1cDa",1600767028,"1","single-choice","Retroactive Airdrop For Proxy Contract Users (e.g. 1Inch, Dharma, Matcha, etc.)","Details:
+https://gov.uniswap.org/t/retroactive-airdrop-excludes-proxy-contract-users-e-g-dharma-matcha-etc/1222
+
+https://gov.uniswap.org/t/application-for-retroactive-proxy-contract-airdrop-for-projects-apps/3221",1600678800,1601208000,"closed",40,"Yes;No","final","0;33977.7699888695","uniswap"
+"QmZUeeJEoEp4Z1oLzMcXbWJyu4WNvHF9p8uHjz97T5nD3m","QmZUeeJEoEp4Z1oLzMcXbWJyu4WNvHF9p8uHjz97T5nD3m","0xe1DC8CeA0BeC8A0638E4dD26D9092edab9F60f9B",1603891364,"1","single-choice","Uniswap Temperature check - [Should we increase the votingDelay?]","Voting Delay is the period between when a proposal is made and when voting starts (and the delegation snapshot is taken).
+The current delay is 1 block.
+Should we increase it?",1604048400,1604221200,"closed",6,"Yes;No","final","21964.9855115498;0","uniswap"
+"QmShiKX75iBo321NKLG9tFFb3EuNM58i8kvWaYLp1HBwCR","QmShiKX75iBo321NKLG9tFFb3EuNM58i8kvWaYLp1HBwCR","0xe1DC8CeA0BeC8A0638E4dD26D9092edab9F60f9B",1605278821,"1","single-choice","Liquidity mining continuation budget","What do you think is the right amount of UNI tokens to be spent on the liquidity mining program in the following month?
+",1605344400,1605517200,"closed",15,"0;1.25 million;2.5 million;3.75 million;5 million;6.25 million;7.5 million;8.75 million;10 million;11.25 million;12.5 million;13.75 million","final","1170.46516200496;0;0;0;0;0;0;0;0;0;0;0","uniswap"
+"QmaKjvEAUL5RxoZeNQJKJZR8rHxiE6XNzzVrm1oLCr69MV","QmaKjvEAUL5RxoZeNQJKJZR8rHxiE6XNzzVrm1oLCr69MV","0x8d07D225a769b7Af3A923481E1FdF49180e6A265",1605551368,"1","single-choice","[Temp Check] Should Uniswap Distribute UNI to Liquidity Providers?","### Background:
+
+Uniswap’s [genesis liquidity incentive program](https://uniswap.org/blog/uni/) ends on Nov 17. The existing program distributed 20 million UNI to LPs over 2 months, split evenly between the WBTC/ETH, USDC/ETH, USDT/ETH, and DAI/ETH pools. This works out to 2.5 million UNI per pool, per month.
+
+#### Benefits of UNI distribution to LPs:
+
+* Ongoing incentives allows UNI to be distributed to those providing value in the form of liquidity
+* The incentivized pools are likely to remain the most liquid DEX pair on Ethereum, providing a venue to trade against ETH at virtually any size with zero slippage.
+* Reduced incentives prevents UNI from being distributed ‘too fast’, marked by all tokens being distributed before the Foundation’s four year vesting has passed.
+
+#### Drawbacks of UNI distribution to LPs:
+
+* Ongoing incentives result in UNI largely being ‘farmed and dumped’ to earn yield. See ETH USD Yield Farm, Pickle, Harvest and Alpha.
+* Reduced incentives means UNI is distributed slower.
+* Incentivizing the same pools can be seen as choosing ‘winners’ by selecting WBTC as THE Bitcoin on Ethereum and favoring certain stablecoins over others.
+
+### Proposed new distribution:
+
+Distribute UNI for an additional 2 months from the time this proposal is adopted and executed by governance. Distribute to the same 4 pools, but at half the rate of the genesis distribution. This works out to 1.25 million UNI per month to each of the 4 covered pools (WBTC/ETH, USDC/ETH, USDT/ETH, DAI/ETH), for a total of 5M UNI per month, or 10M UNI total over the next 2 months.
+
+Please see the liquidity incentive [governance plan document](https://gov.uniswap.org/t/discussion-uniswap-liquidity-incentive-plan/8590) for full details and timelines.
+
+### Temperature check question:
+
+Should Uniswap distribute UNI to liquidity providers per the specifications outlined above?
+
+### Next steps:
+
+The snapshot poll will be live for 3 days. If the poll passes with a minimum of 25,000 UNI in support, this proposal will move forward to the consensus check phase. Details about the Uniswap governance process can be found [here](https://gov.uniswap.org/t/community-governance-process/7732).",1605556800,1605816000,"closed",286,"Yes, I support this proposal;No, I don't support this proposal;Abstain","final","16520750.7370814;467760.293499435;452.110337998004","uniswap"
+"QmcZGhUoTEGGQWMrEXBcCwCenjSQRTJdhta4JYyVEWnN24","QmcZGhUoTEGGQWMrEXBcCwCenjSQRTJdhta4JYyVEWnN24","0x8d07D225a769b7Af3A923481E1FdF49180e6A265",1606159989,"1","single-choice","[Consensus Check] Should Uniswap Distribute UNI to Liquidity Providers?","Authors: @monet-supply @coopahtroopa 
+
+### Background: 
+Uniswap’s [genesis liquidity incentive program](https://uniswap.org/blog/uni/) ended on Nov 17. The program distributed 20 million UNI to LPs over 2 months, split evenly between the WBTC/ETH, USDC/ETH, USDT/ETH, and DAI/ETH pools. This worked out to 2.5 million UNI per pool, per month.
+
+#### Benefits of UNI distribution to LPs:
+Ongoing incentives allows UNI to be distributed to those providing value in the form of liquidity
+The incentivized pools are likely to remain the most liquid DEX pair on Ethereum, providing a venue to trade against ETH at virtually any size with zero slippage.
+Reduced incentives prevents UNI from being distributed ‘too fast’, marked by all tokens being distributed before the Foundation’s four year vesting has passed.
+
+#### Drawbacks of UNI distribution to LPs:
+Ongoing incentives result in UNI largely being ‘farmed and dumped’ to earn yield. See ETH USD Yield Farm, Pickle, Harvest and Alpha.
+Reduced incentives means UNI is distributed slower.
+Incentivizing the same pools can be seen as choosing ‘winners’ by selecting WBTC as THE Bitcoin on Ethereum and favoring certain stablecoins over others.
+
+### Proposed new distribution: 
+Distribute UNI for an additional 2 months from the time this proposal is adopted and executed by governance, but at half the rate of the previous distribution (5 million UNI per month instead of 10 million UNI per month). 
+
+**Note that pool distributions were adjusted slightly from the previous [temperature check](https://gov.uniswap.org/t/temperature-check-should-uniswap-distribute-uni-to-liquidity-providers/8591) process**. Reasoning behind this adjustment can be found [here](https://gov.uniswap.org/t/discussion-uniswap-liquidity-incentive-plan/8590/68). 
+
+UNI will be distributed to the following 4 pools:
+WBTC/ETH - 1.67 million UNI per month, ⅓ of total
+USDC/ETH - 1.25 million UNI per month, ¼ of total
+USDT/ETH - 1.25 million UNI per month, ¼ of total
+DAI/ETH - 0.83 million UNI per month, ⅙ of total
+
+Please see the liquidity incentive [governance plan document](https://gov.uniswap.org/t/discussion-uniswap-liquidity-incentive-plan/8590) for full details and timelines. 
+
+### Consensus check question:
+
+Should Uniswap distribute UNI to liquidity providers per the specifications outlined above?
+
+### Next steps:
+The previous [temperature check](https://gov.uniswap.org/t/temperature-check-should-uniswap-distribute-uni-to-liquidity-providers/8591) process passed with sufficient support of UNI voters. The following consensus check poll is the second phase of Uniswap’s [governance process](https://gov.uniswap.org/t/community-governance-process/7732).
+
+The snapshot poll will be live for 5 days. If the poll passes with a minimum of 50,000 UNI in support, this initiative will move forward as a formal governance proposal. 
+
+Consensus check forum post can be found [here](https://gov.uniswap.org/t/consensus-check-should-uniswap-distribute-uni-to-liquidity-providers/8878).",1606161600,1606593600,"closed",89,"Yes, I support this proposal;No, I don't support this proposal;Abstain","final","1448775.47069836;134079.540172913;0","uniswap"
+"QmU5sggJNTQmSQtxecdsAJxXn9fgSwYz1dXpSpDcgwAqqy","QmU5sggJNTQmSQtxecdsAJxXn9fgSwYz1dXpSpDcgwAqqy","0x3b499Ac151097Dc9d32E056074E1e541a1ba9e2D",1607030531,"1","single-choice","[Temp Check] Fund UNI Grants Program?","A proposal for funding Uniswap ecosystem development with up grants from the UNI treasury.
+
+The mission of the Uniswap Grants Program (UGP) is to provide valuable resources to help grow the Uniswap ecosystem. 
+
+A grants program is a by definition a subjective process that cannot be easily automated. 
+
+So the proposal calls for a small committee of 6 members—1 lead and 5 reviewers—to deliver an efficient, predictable process to applicants.
+
+The budget proposed is:
+
+- $750K (of UNI) per quarter
+- Over 2 quarters
+
+The assumption is that $1.5M worth of UNI seems appropriate for an MVP, especially relative to the size of the treasury that UNI token holders are entrusted with allocating. 
+
+More details and an explanation of the methodology that got us here are live on Discourse, and we are polling consensus before putting this to a governance vote — as soon as next week!
+
+Should UNI gov create a committee for grant funding?
+
+Please show your opinions!",1607101200,1607749140,"closed",0,"Yes, fund an MVP grant committee;No, don't fund an MVP grants committee","final","0;0","uniswap"
+"QmWe6Krc81pkCtQFbd2AxytFCp1imLGUnFTEEom9YNwFte","QmWe6Krc81pkCtQFbd2AxytFCp1imLGUnFTEEom9YNwFte","0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1",1616773183,"1","single-choice","Can UGP increase their Q2 budget to $1.5M?","The UNI Grants Program would like to double the Q2 budget to $1.5M in order to match the Uniswap Labs bug bounty program with $500,000 worth of UNI from the Committee multisig. Due to the price change of UNI, the funds are already available and will not require a formal transfer of funds from community treasury.  
+
+However, as these funds were not a part of our original proposal, we are seeking approval via a 7 day time-bound Snapshot vote, after which UGP will act according to the majority vote. ",1616770800,1617422340,"closed",570,"Approve;Deny","final","7036339.68080026;70.2249871771105","uniswap"
+"Qmehop1NNWP9VEf7tGLEAYRphVsXtdxkL7oKEhaXL2Xao6","Qmehop1NNWP9VEf7tGLEAYRphVsXtdxkL7oKEhaXL2Xao6","0x88FB3D509fC49B515BFEb04e23f53ba339563981",1622045218,"1","single-choice","Deploy Uniswap v3 on Arbitrum","### Background
+Per andy8052 on the [Uniswap forums](https://gov.uniswap.org/t/deploy-uniswap-v3-to-arbitrum-mainnet/12451):
+...there is immense value in being available for swaps on every EVM compatible network. Since there is no liquidity mining, it is hard to make the case that multiple deployments will segment liquidity, and long term if this is an issue governance can flip the switch on liquidity incentives for the chains it desires deepest liquidity. In the meantime, not deploying to new and growing networks like Arbitrum and Matic just allows for other exchanges to come in and fill that spot. This could potentially eat into fees earned by governance in the future.
+
+Alongside this, it will help to grow the potential list of projects that can be built on Uniswap v3. Growing the public smart contract libraries interfacing with and using the v3 codebase will only expedite Uniswap adoption on all chains as the code and integrations become more battle tested.
+
+Arbitrum launches later this week on May 28th. I think it would be best to start a discussion ASAP around deploying the Uniswap v3 code to Arbitrum network.
+
+### Next Steps
+Indicate your interest for Uniswap moving forward with a deployment of Uniswap v3 on Arbitrum, by (1) opening the Uniswap v3 license to include code deployed on Arbitrum, (2) allowing community developers to implement Uniswap v3 on Arbitrum.
+",1622044800,1622217600,"closed",871,"FOR Uniswap v3 on Arbitrum;AGAINST Uniswap v3 on Arbitrum","final","38647456.608673;306.106086287388","uniswap"
+"QmVXXEXJJKjFJtwXyy4Xx3gBckhz6TvorZoLgX3yiB7Hki","QmVXXEXJJKjFJtwXyy4Xx3gBckhz6TvorZoLgX3yiB7Hki","0x61c8D4e4BE6477Bb49791540Ff297Ef30Eaa01c2",1622143510,"1","single-choice","Funding a Political Defense of DeFi","Should UNI governance allocate 1-1.5M UNI to fund a policy operation to defend the protocol and DeFi from legal and regulatory threats?",1622138400,1622329200,"closed",462,"Yes;No","final","32283998.5244826;17783893.4601888","uniswap"
+"QmNPvJSYqtpN8JeReGACfPJNx7yXZrsrcAKDsjHvbx3Pu3","QmNPvJSYqtpN8JeReGACfPJNx7yXZrsrcAKDsjHvbx3Pu3","0xB0623C91c65621df716aB8aFE5f66656B21A9108",1622166656,"1","single-choice","Should Uniswap lower the proposal submission threshold?","Uniswap governance currently has a proposal submission threshold of 10M votes. Should this threshold be lowered?",1622217600,1622476800,"closed",360,"Yes, it should be lowered;No, it should remain the same","final","41167674.1943102;1879.55883654687","uniswap"
+"Qme9MASbuzrX2W6o7e4CCKqQiLGS5yuBLmX8wkeM5awcio","Qme9MASbuzrX2W6o7e4CCKqQiLGS5yuBLmX8wkeM5awcio","0xd7aC4581eF4E2BB6cC3734Da183B981bfd0Ee2A2",1622234601,"1","single-choice","Managing Systemic Risk in Uniswap's Community Treasury using KPI Options","# Summary
+
+## Problem
+
+Uniswap's governance treasury will retain 43% of $UNI supply vested over 4 years, currently allocated 113 million in $UNI. Current value ~ ****$2.724 Billion USD. Max drawdown starting on May 3 2021, in 20 days $UNI lost 71% of it's value, a loss of ~ **$3.616 Billion USD.**
+We need to manage this systemic risk and volatility for the long term success of the community treasury. 
+
+## Solution
+
+Partial divestment of Uniswap governance treasury by using UMA Synthetic KPI Options to create a win for the treasury, a win for the protocol and a win for the stakeholders. Long term goal would be to put together an actively managed portfolio for the treasury aka uniHOUSE.
+
+TLDR: 
+
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/be190280-346d-46c8-beac-5d2827c06bf8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210528%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210528T202056Z&X-Amz-Expires=86400&X-Amz-Signature=cfc327266e06a5aabb9ad5174b4d9af87fedf6bfa6d811e30f023af337d92920&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
+# Background
+
+## Yam.Finance
+
+[Yam.finance](http://yam.finance) has been leading the charge on treasury management for DAOs via our project DAO House: [https://yamfinance.medium.com/yam-finance-presents-dao-house-86625f9bae5a](https://yamfinance.medium.com/yam-finance-presents-dao-house-86625f9bae5a)
+
+We've realized that there are significant systemic risks for DAO's treasuries. During the bear market of 2017 multiple projects were forced to sell their treasury at historically low values, which ultimately caused many of them to disband and shutter. 
+
+Treasury management is mission critical for DAOs, yet the challenges and complexities are formidable. Sushi realized this systemic issue and collaborated with [Yam.Finance](http://yam.Finance) to build a custom treasury management solution called sushiHOUSE: [https://forum.sushi.com/t/sushihouse-a-treasury-management-proposal/3106](https://forum.sushi.com/t/sushihouse-a-treasury-management-proposal/3106)
+
+The most difficult part of a treasury management solution for a DAO as large as UNI, is the first part, the treasury protocol token divestment. I present a novel solution that will benefit the treasury, the long term success of the protocol and also all stakeholders. 
+
+## UMA Synthetics
+
+A quick primer on UMA: [https://docs.umaproject.org/getting-started/how-uma-works](https://docs.umaproject.org/getting-started/how-uma-works)
+
+By using UMA's platform, we are able to use battle tested UMA financial contracts to create KPI options. Here are some examples of current KPI options that are already deployed and distributed.
+
+[https://medium.com/uma-project/uma-kpi-options-and-airdrop-bae86be16ce4](https://medium.com/uma-project/uma-kpi-options-and-airdrop-bae86be16ce4)
+
+[https://medium.com/uma-project/badgerdaos-rebase-mining-kicks-off-now-using-uma-s-kpi-options-cd75f71dc1fa](https://medium.com/uma-project/badgerdaos-rebase-mining-kicks-off-now-using-uma-s-kpi-options-cd75f71dc1fa)
+
+# KPI Options
+
+## How do KPI Options work?
+
+KPI options can be created by using UMA's battle tested UMA financial contracts. 
+
+1. Determine KPI metric for the synthetic. For example, KPI metric is Total Value Locked (TVL), currently ~$1.5b. KPI Metric could be many different things like volume, total fees generated over 30 days ect. 
+2. Determine target for KPI, value and expiry date. For example, we want to target 2x TVL start, $3b and want the option to expire end of 2021.
+3. Mint KPI option by depositing collateral to be used at settlement. For example, collateralize 1 $UNI token for 1 KPI option. 
+4. For our example above:
+    1. TVL option starts at a value of .5 $UNI because current TVL is $1.5b
+    2. If TVL > $3b before the end of 2021, the TVL option can be settled for 1 $UNI after it expires at the end of 2021. 
+    3. If TVL < $3b at expiry it will be worth a fraction of 1 $UNI. For example at expiry TVL is $2b, the value of the synth expires to 2/3 $UNI = .667 $UNI.
+    4. Synth is unliquidatable and fully collateralized. 
+
+## How do KPI Options divest UNI's community treasury?
+
+From example above, KPI Option is created by:
+
+1. Collateralizing 1 $UNI token 
+2. KPI metric tracked is TVL, starting at $1.5b
+3. Target is $3b TVL by the end of the year. If it reaches $3b TVL anytime before expiry  
+
+UNI's community treasury is able to utilize its treasury full of UNI tokens to create these KPI options. 
+
+1. KPI Options would be minted by treasury and sold for stable coins via a gnosis auction or by various other means. Implied value of the option is .5 UNI (current TVL is $1.5b with target of $3b). 
+2. The sale would fund the treasury with stablecoins which could then be used to create a secondary market for the KPI Options by using Uniswap's AMM pools. 
+3. At expiry all KPI options could be settled and stablecoins withdrawn from LP positions. 
+4. Treasury now has stable coins = WIN!
+5. UNI stake holders have incentives to increase TVL = WIN!
+6. Stablecoins are the cornerstone of long term success for UNI protocol = WIN!
+
+Win - Win - Win
+
+# Additional Details
+
+[Yam.finance](http://yam.finance) has extensive knowledge on building synthetics on UMA's platform via our development of [degenerative.finance](http://degenerative.finance), V2 of site to be launched soon. Combined with our experience in DAO treasury management, it allows us to have a unique perspective to create this proposal. 
+
+### Links:
+
+[https://claim.umaproject.org/](https://claim.umaproject.org/)
+
+[https://medium.com/uma-project/the-uma-kpi-options-airdrop-is-now-claimable-and-the-super-uman-campaign-is-live-7e9baa5c1669](https://medium.com/uma-project/the-uma-kpi-options-airdrop-is-now-claimable-and-the-super-uman-campaign-is-live-7e9baa5c1669)
+
+[https://medium.com/uma-project/badgerdaos-rebase-mining-kicks-off-now-using-uma-s-kpi-options-cd75f71dc1fa](https://medium.com/uma-project/badgerdaos-rebase-mining-kicks-off-now-using-uma-s-kpi-options-cd75f71dc1fa)
+
+[https://forum.sushi.com/t/build-kpi-options-with-uma-to-speed-kashi-adoption/3940](https://forum.sushi.com/t/build-kpi-options-with-uma-to-speed-kashi-adoption/3940)
+
+[https://etherscan.io/token/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984?a=0x1a9c8182c09f50c8318d769245bea52c32be35bc](https://etherscan.io/token/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984?a=0x1a9c8182c09f50c8318d769245bea52c32be35bc)
+
+Managing Systemic Risk in Uniswap's Community Treasury using KPI Options",1622574000,1622746800,"closed",201,"Proceed to Consensus Check;Do Not Proceed","final","4870.47688437039;15890.6784212196","uniswap"
+"QmTj8EWNTTinpDa9aXZdVkhzPBXD2monu6ZFV1dfoojR2f","QmTj8EWNTTinpDa9aXZdVkhzPBXD2monu6ZFV1dfoojR2f","0x51841D9AFe10fE55571bDB8f4Af1060415003528",1622337728,"1","single-choice","Donate $50M worth of UNI to Chris Blec to leave DeFi for good","https://twitter.com/ChrisBlec/status/1398655730979377155 Chris Blec has stated that he will leave the DeFi community for $50M. Let's get this done. 💪
+",1622337900,1622908800,"closed",516,"Give Mr. Blec the $50 mil.;Don't (Wrong answer)","final","1517.03917339945;4240625.01451622","uniswap"
+"QmaUPBYqkiKnwkaVNVrUDpD6fk5EXXTqJjn71qHNYW4YQn","QmaUPBYqkiKnwkaVNVrUDpD6fk5EXXTqJjn71qHNYW4YQn","0x61c8D4e4BE6477Bb49791540Ff297Ef30Eaa01c2",1622503556,"1","single-choice","Consensus Check — Funding a Political Defense of DeFi ","Should governance allocate 1M UNI from the Community Treasury to fund a 501(c)(4) to defend the protocol and DeFi from legal and regulatory threats and help ensure the promise of DeFi?",1622502000,1622934000,"closed",413,"Allocate 1M UNI;Make no change","final","43037839.7641116;12819410.873888","uniswap"
+"QmXDNKm4feLGUXCdtHjHZYrNTMsysEhP34nRYFSM3HhKVT","QmXDNKm4feLGUXCdtHjHZYrNTMsysEhP34nRYFSM3HhKVT","0xbdac5657eDd13F47C3DD924eAa36Cf1Ec49672cc",1623681103,"1","single-choice","Temperature Check - Managing Systemic Risk in Uniswap’s Community Treasury using KPI Options","### Author: Feddas@Yam.Finance
+### Forum Post: https://gov.uniswap.org/t/temperature-check-should-we-be-managing-systemic-risk-in-uniswaps-community-treasury-using-kpi-options/12624
+
+# Summary
+
+## Problem
+
+Uniswap's governance treasury will retain 43% of $UNI supply vested over 4 years, currently allocated 113 million in $UNI. Current value ~ ****$2.724 Billion USD. Max drawdown starting on May 3 2021, in 20 days $UNI lost 71% of it's value, a loss of ~ **$3.616 Billion USD.**
+We need to manage this systemic risk and volatility for the long term success of the community treasury. 
+
+## Solution
+
+Partial divestment of Uniswap governance treasury by using UMA Synthetic KPI Options to create a win for the treasury, a win for the protocol and a win for the stakeholders. Long term goal would be to put together an actively managed portfolio for the treasury aka uniHOUSE.
+
+TVL Metric is only an example. There have been suggestions on using other metrics to measure the KPI for this option. It is currently an open issue which  we can delve into more after the temperature check.
+
+### TLDR:
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be190280-346d-46c8-beac-5d2827c06bf8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be190280-346d-46c8-beac-5d2827c06bf8/Untitled.png)
+
+# Background
+
+## Yam.Finance
+
+[Yam.finance](http://yam.finance) has been leading the charge on treasury management for DAOs via our project DAO House: [https://yamfinance.medium.com/yam-finance-presents-dao-house-86625f9bae5a](https://yamfinance.medium.com/yam-finance-presents-dao-house-86625f9bae5a)
+
+We've realized that there are significant systemic risks for DAO's treasuries. During the bear market of 2017 multiple projects were forced to sell their treasury at historically low values, which ultimately caused many of them to disband and shutter. 
+
+Treasury management is mission critical for DAOs, yet the challenges and complexities are formidable. Sushi realized this systemic issue and collaborated with [Yam.Finance](http://yam.Finance) to build a custom treasury management solution called sushiHOUSE: [https://forum.sushi.com/t/sushihouse-a-treasury-management-proposal/3106](https://forum.sushi.com/t/sushihouse-a-treasury-management-proposal/3106)
+
+The most difficult part of a treasury management solution for a DAO as large as UNI, is the first part, the treasury protocol token divestment. I present a novel solution that will benefit the treasury, the long term success of the protocol and also all stakeholders. 
+
+## UMA Synthetics
+
+A quick primer on UMA: [https://docs.umaproject.org/getting-started/how-uma-works](https://docs.umaproject.org/getting-started/how-uma-works)
+
+By using UMA's platform, we are able to use battle tested UMA financial contracts to create KPI options. Here are some examples of current KPI options that are already deployed and distributed.
+
+[https://medium.com/uma-project/uma-kpi-options-and-airdrop-bae86be16ce4](https://medium.com/uma-project/uma-kpi-options-and-airdrop-bae86be16ce4)
+
+[https://medium.com/uma-project/badgerdaos-rebase-mining-kicks-off-now-using-uma-s-kpi-options-cd75f71dc1fa](https://medium.com/uma-project/badgerdaos-rebase-mining-kicks-off-now-using-uma-s-kpi-options-cd75f71dc1fa)
+
+# KPI Options
+
+## How do KPI Options work?
+
+KPI options can be created by using UMA's battle tested UMA financial contracts. 
+
+1. Determine KPI metric for the synthetic. For example, KPI metric is Total Value Locked (TVL), currently ~$1.5b. KPI Metric could be many different things like volume, total fees generated over 30 days ect. 
+2. Determine target for KPI, value and expiry date. For example, we want to target 2x TVL start, $3b and want the option to expire end of 2021.
+3. Mint KPI option by depositing collateral to be used at settlement. For example, collateralize 1 $UNI token for 1 KPI option. 
+4. For our example above:
+    1. TVL option starts at a value of .5 $UNI because current TVL is $1.5b
+    2. If TVL > $3b before the end of 2021, the TVL option can be settled for 1 $UNI after it expires at the end of 2021. 
+    3. If TVL < $3b at expiry it will be worth a fraction of 1 $UNI. For example at expiry TVL is $2b, the value of the synth expires to 2/3 $UNI = .667 $UNI.
+    4. Synth is unliquidatable and fully collateralized. 
+
+## How do KPI Options divest UNI's community treasury?
+
+From example above, KPI Option is created by:
+
+1. Collateralizing 1 $UNI token 
+2. KPI metric tracked is TVL, starting at $1.5b
+3. Target is $3b TVL by the end of the year. If it reaches $3b TVL anytime before expiry  
+
+UNI's community treasury is able to utilize its treasury full of UNI tokens to create these KPI options. 
+
+1. KPI Options would be minted by treasury and sold for stable coins via a gnosis auction or by various other means. Implied value of the option is .5 UNI (current TVL is $1.5b with target of $3b). 
+2. The sale would fund the treasury with stablecoins which could then be used to create a secondary market for the KPI Options by using Uniswap's AMM pools. 
+3. At expiry all KPI options could be settled and stablecoins withdrawn from LP positions. 
+4. Treasury now has stable coins = WIN!
+5. UNI stake holders have incentives to increase TVL = WIN!
+6. Stablecoins are the cornerstone of long term success for UNI protocol = WIN!
+
+Win - Win - Win
+
+# Additional Details
+
+[Yam.finance](http://yam.finance) has extensive knowledge on building synthetics on UMA's platform via our development of [degenerative.finance](http://degenerative.finance), V2 of site to be launched soon. Combined with our experience in DAO treasury management, it allows us to have a unique perspective to create this proposal. 
+
+### Links:
+
+[https://claim.umaproject.org/](https://claim.umaproject.org/)
+
+[https://medium.com/uma-project/the-uma-kpi-options-airdrop-is-now-claimable-and-the-super-uman-campaign-is-live-7e9baa5c1669](https://medium.com/uma-project/the-uma-kpi-options-airdrop-is-now-claimable-and-the-super-uman-campaign-is-live-7e9baa5c1669)
+
+[https://medium.com/uma-project/badgerdaos-rebase-mining-kicks-off-now-using-uma-s-kpi-options-cd75f71dc1fa](https://medium.com/uma-project/badgerdaos-rebase-mining-kicks-off-now-using-uma-s-kpi-options-cd75f71dc1fa)
+
+[https://forum.sushi.com/t/build-kpi-options-with-uma-to-speed-kashi-adoption/3940](https://forum.sushi.com/t/build-kpi-options-with-uma-to-speed-kashi-adoption/3940)
+
+[https://etherscan.io/token/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984?a=0x1a9c8182c09f50c8318d769245bea52c32be35bc](https://etherscan.io/token/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984?a=0x1a9c8182c09f50c8318d769245bea52c32be35bc)c09f50c8318d769245bea52c32be35bc",1623693600,1623952800,"closed",408,"Pass Temperature Check;Do Not Pass","final","199575.871486021;586.822092333326","uniswap"
+"QmZcfEhN6xx6mMyo6ins4pSMga7N3o14fW4VtFzYTRHuLj","QmZcfEhN6xx6mMyo6ins4pSMga7N3o14fW4VtFzYTRHuLj","0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b",1624037162,"1","single-choice","Temperature Check: Raise the proposal quorum threshold","Raise the proposal quorum threshold from 40M because recent voting participation is much higher and there is a lot of UNI that has been delegated",1624042800,1624402800,"closed",369,"Yes;No","final","11932647.2750594;667.376236753247","uniswap"
+"QmQbcxLpGENeDauCAsh3BXy9H9fiiK46JEfnLqG3s8iMbN","QmQbcxLpGENeDauCAsh3BXy9H9fiiK46JEfnLqG3s8iMbN","0xd957a7Fc541fc4b3104ef891A975ae967D4c9057",1624387924,"1","single-choice","Temp Check: Larger Grant Construct // CEA + No Negative Net UNI","Uniswap should grant $25M to fund Flipside Community-Enabled Analytics via a sustainable yield-generating investment strategy that:
+1. Produces analytics that drive user education and customer growth
+2. Allocates UNI to participants through bounties, increasing liquidity
+3. Uses Uniswap’s own yield mechanisms to enable a largely self-funded program
+
+Forum Post >> https://gov.uniswap.org/t/temperature-check-larger-grant-program-construct-community-enabled-analytics-no-negative-net-uni/13044",1624387500,1624646700,"closed",464,"Yes;No","final","8007367.30750438;3401.7949773035","uniswap"
+"QmbVVJ57NFq9ipgt3YY9S1NyN5s5ziswgHSPWfXNvuzwgx","QmbVVJ57NFq9ipgt3YY9S1NyN5s5ziswgHSPWfXNvuzwgx","0xd957a7Fc541fc4b3104ef891A975ae967D4c9057",1625440877,"1","single-choice","Consensus Check: Community-Enabled Analytics via Yield-Generating Investment Strategies","Should Uniswap governance grant $25M to fund Community-Enabled Analytics via a sustainable yield-generating investment strategy that:
+1. Produces analytics that educate the community and drive growth
+2. Allocates UNI to participants through bounties
+3. Uses Uniswap’s own yield mechanisms to sustainably self-fund the program
+
+Forum Post >> [https://gov.uniswap.org/t/consensus-check-uniswap-funds-community-enabled-analytics-via-yield-generating-investment-strategies/13220](https://gov.uniswap.org/t/consensus-check-uniswap-funds-community-enabled-analytics-via-yield-generating-investment-strategies/13220)",1625440500,1625872500,"closed",330,"Yes, Approve the Grant;No, Make No Change","final","2513681.05371171;1275.50884577127","uniswap"
+"QmPe3FKu44mtGKvKmBDxVGkV9256BCcTf7TZ4cfugYdqRn","QmPe3FKu44mtGKvKmBDxVGkV9256BCcTf7TZ4cfugYdqRn","0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b",1625609701,"1","single-choice","Consensus Check: Raise the proposal quorum threshold","Raise the proposal quorum threshold from 40M because recent voting participation is much higher and there is a lot of UNI that has been delegated.
+
+Please vote for what you think the new quorum threshold should be set to.",1625623200,1625968800,"closed",297,"Leave it unchanged;50M;60M;70M;80M;90M","final","5105.51291982789;9.19855386170261;566.111;27.2874909667668;2821.83733785586;357.286624262643","uniswap"
+"QmX6y6Koqc82o7TSSnmw793RbyJMUfrRStr1wsTvCy4Ynj","QmX6y6Koqc82o7TSSnmw793RbyJMUfrRStr1wsTvCy4Ynj","0x29Aa0c482C2021E7fe0Fe6bf251bb8cA8d249664",1625924450,"1","single-choice","Temperature Check - Allocate 1.5M UNI to Go-Ethereum long-term Talent-Acquisition & Retention Grant (GETH-TARG)","Should the Uniswap DAO becomes the first of many Ethereum DAOs to allocate a portion of their treasury (1.5M UNI) towards Ethereum client development, which is crucial infrastructure to the Ethereum ecosystem and is developed solely from public goods funding from the ecosystem [while also complex and requires specialized talent to build on], in hopes that others follow suit in correctly allocating the necessary funds to incentivize the talent needed to build complex open-source infrastructure?
+
+Full proposal: https://gov.uniswap.org/t/temperature-check-allocate-1-5m-uni-to-go-ethereum-long-term-talent-acquisition-retention-grant-geth-targ/13265",1625932800,1626537600,"closed",510,"Yes, allocate funding to Geth;No, do not fund Geth","final","219516.709957261;5460.05953281173","uniswap"
+"QmUrYMZrS97ZA5FeSAgs6xk7qNong5pjwXkQyYi7M6WmkC","QmUrYMZrS97ZA5FeSAgs6xk7qNong5pjwXkQyYi7M6WmkC","0x77848888BeCe35979dbE948C7931a3E7Bb7e0d50",1625931607,"1","single-choice","Create a CAPITAL PROTECTION Tool for v3!! ","Would you like to have 100% protection against volatility for your crypto?? This could be done using the new Concentrated Liquidity of v3 by just changing or adding a few things! 
+
+Imagine adding liquidity to the ETH/USDC pair for example (50% of each), and in case the ETH price drops and gets out of your range, your capital is turned 100% into USDC!! This way you would be 100% PROTECTED against LOSSES! And in case the ETH price goes up again and completely crosses your range in an upward direction, your capital would be automatically swaped 100% into ETH!!
+
+You could even manually FOLLOW or TRAIL the ETH price every time it goes up, by removing and adding a new liquidity range at a higher price, and this could help you MAXIMIZE YOUR PROFITS!! You could very efficiently trade tops like this! Just imagine trading perfectly the ETH TOP of this Bull market! Either if it is 10k, 15k, or 20k, you could just follow it and trade it perfectly!! And after it drops, you can continue to follow the price, GROWING YOUR CAPITAL thanks to a high yield from fees, and volatility itself! Knowing your capital is always completely PROTECTED against ANY LOSSES!!
+
+The problem now is that the direction of the swaps inside a liquidity range are exactly the opposite as they should be... Using the same example, if the ETH price drops out of your range, your capital is swaped 100% into ETH, and if the price goes up and gets out of the range, your capital is 100% swaped into USDC... It should be the exact opposite!
+
+So this is a PROPOSAL to change the direction the swaps are made inside a liquidity range to the exact opposite they are now, or to at least let the users choose the direction of the swaps when they add liquidity to the pools or create ranged orders.
+
+If we make this change, it would be DISRUPTIVE and Uniswap will completely BREAK all other DEXs and CEXs!! People would LOOSE the FEAR of loosing their money because of volatility!! This would easily help with crypto's mass adoption!! And it will definitely drive more LPs to v3!! Please think about it and support this proposal! Thanks!! ",1625931900,1626191100,"closed",350,"YES;NO","final","6373.03983513338;4214022.72359747","uniswap"
+"Qmeza7LnzTLAGhHeA2psNtf1ua4kgm2Q1NHAMPeVzs5C2i","Qmeza7LnzTLAGhHeA2psNtf1ua4kgm2Q1NHAMPeVzs5C2i","0xA2BF1B0a7E079767B4701b5a1D9D5700eB42D1d1",1626212918,"1","single-choice","Should UGP be reinstated with existing funds?","tl;dr - Over the last 6 months, UGP has successfully deployed $1.75M to 52 grantees. While UGP was initially funded to deploy $750k per quarter, UNI price has appreciated and the multisig now custodies an additional $8.5m.
+
+This proposal seeks approval for the following changes:
+
+Extend the UNI Grants Program for an additional 6 months
+Utilizing the remaining funds, scaling the grants program up to $8.5M in grants
+All committee members to be compensated at $150USD/hr as needed for no more than 30 hours/week
+Due to time constraints, Robert Leshner, Kain Warwick, and Ashleigh Schap are stepping down from the committee, to be replaced by John Palmer, Ariana Fowler, and Callil Capuozzo",1626192000,1626796800,"closed",533,"YES;NO","final","23022013.8588039;287.389111687084","uniswap"
+"QmWbGN8xaYzBpnJ4DKg245XXKQ68FSqpFxvDGKnNHQjKdj","QmWbGN8xaYzBpnJ4DKg245XXKQ68FSqpFxvDGKnNHQjKdj","0x77848888BeCe35979dbE948C7931a3E7Bb7e0d50",1626306902,"1","single-choice","[Proposal] Removal of established cranial follicles fund.","View the proposal here: 
+https://gov.uniswap.org/t/proposal-removal-of-established-cranial-follicles-fund/13314",1626307200,1627776000,"closed",523,"YES,  allocate 500k UNI to CHF; Hire Ed Sheeran","final","3484.44764030161;1834.71303284265","uniswap"
+"QmTyWBn3PcBcFeuwKcjwAu5DZypVTK3aGuQ6EGQPFghgtX","QmTyWBn3PcBcFeuwKcjwAu5DZypVTK3aGuQ6EGQPFghgtX","0x77848888BeCe35979dbE948C7931a3E7Bb7e0d50",1626366484,"1","single-choice","Consensus Check - ABOLISH Delegates and change the UNI Governance Voting System","Read the proposal HERE: https://gov.uniswap.org/t/consensus-check-abolish-delegates-and-change-the-uni-governance-voting-system/13458",1626366600,1626971400,"closed",471,"YES, ABOLISH delegates ;Let delegates RUN UNI governance","final","3126.6984581614;213625.414278956","uniswap"
+"QmTksCuBh2HLMKSXUE7yyCHGE9dCevac9oEWnkef8Junn2","QmTksCuBh2HLMKSXUE7yyCHGE9dCevac9oEWnkef8Junn2","0xC8093dA592961367D3448e4635ED9e41C63d2d34",1626567167,"1","single-choice","Temperature Check - [Merge the Uniswap Grant Program into Uniswap DAO Governance]","View the proposal here:
+
+https://gov.uniswap.org/t/temperature-check-merge-the-uniswap-grant-program-into-uniswap-dao-governance/13511",1626567300,1626740100,"closed",136,"Yes; Merge Grants and UNI DAO;No","final","9959.673901645;208871.961875752","uniswap"
+"QmVnsMXvSG84x3u2iYZ3nGWeXU4pRcfuKWwXnyjpD9j6To","QmVnsMXvSG84x3u2iYZ3nGWeXU4pRcfuKWwXnyjpD9j6To","0xbeA9419E51BbD1B7F564c9F0891187A5822974AB",1626724778,"1","single-choice","Turning on the fee switch for V2","Should we turn the fee switch on for V2 and establish, ""Buyback and Keep"" model?",1626724800,1627207200,"closed",354,"Yes, lets do it!;No","final","220448.271560098;285.443074761489","uniswap"
+"QmRKpArENVfj7bUaXuEj2QUqZCB5ZJGc9VDmNvyfTKnAKf","QmRKpArENVfj7bUaXuEj2QUqZCB5ZJGc9VDmNvyfTKnAKf","0xbdac5657eDd13F47C3DD924eAa36Cf1Ec49672cc",1627311463,"1","single-choice","Consensus Check - Create Uniswap Volume KPI Options to help divest Uniswap’s Community Treasury into Stablecoins","Please read the proposal on the forums: 
+
+https://gov.uniswap.org/t/consensus-check-create-uniswap-volume-kpi-options-to-help-divest-uniswap-s-community-treasury-into-stablecoins/13533
+
+Thank you. 
+
+Feddas",1627315200,1627574400,"closed",181,"Approve;Deny","final","233747.104214328;3","uniswap"
+"QmScNLeajiF2hQh1z9DYqTFKGgrRhHwrHisV4ynmDEQwxH","QmScNLeajiF2hQh1z9DYqTFKGgrRhHwrHisV4ynmDEQwxH","0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b",1627351312,"1","single-choice","Temperature Check: Upgrade Governance Contract to Governor Bravo","Upgrade Uniswap’s current governance contract from Governor Alpha to Governor Bravo because this will offer a number of benefits.",1627358400,1627704000,"closed",296,"Upgrade to Governor Bravo;Do not upgrade to Governor Bravo","final","8358374.09795482;378.823713708074","uniswap"
+"QmUMGd8r249PEEbVkF8z7ftEyvRBhtFA3T3oHMxhSJcFJ9","QmUMGd8r249PEEbVkF8z7ftEyvRBhtFA3T3oHMxhSJcFJ9","0x10D6d2e343281D388291A3e02f3293AaEdA67178",1627552096,"1","single-choice","Begin Uniswap Liquidity Program v0.1","# Purpose
+
+This proposal seeks approval to begin the Uniswap Liquidity Program v0.1 to migrate liquidity to v3. A detailed proposal on the Uniswap Liquidity Program can be found [here](https://gov.uniswap.org/t/consensus-check-begin-uniswap-liquidity-program-v0-1/13635).
+
+# Summary
+
+This proposal outlines a framework for establishing a liquidity incentives program (Uniswap Liquidity Program, ULP) with the goals of: accelerating the migration of liquidity to Uniswap v3; encouraging new market participants to experiment with liquidity provision, further distributing ownership of UNI tokens, and supporting ecosystem growth over the long-term.
+
+We propose the program start with an initial maximum budget of 1.662m UNI, to be allocated as liquidity incentives across two quarters. Continuation of the program will require an additional governance vote. Upon renewal of the program, each of the three initiatives can be broken out into separate proposals.
+
+The program will aim to bootstrap liquidity across three different initiatives:
+
+* Stablecoin pairs
+* Mid-tail pairs (e.g DeFi governance tokens)
+* Deposit receipt tokens (i.e. cTokens, aTokens)
+
+Note that this is just the beginning of the Uniswap Liquidity Program (v0.1). We want to start simple and evaluate the program's effectiveness before we expand it. We will provide periodic updates on ULP to Uniswap governance and seek community feedback.
+
+# Vote
+
+Should we begin Uniswap Liquidity Program v0.1?
+* Yes
+* No",1627552800,1627984800,"closed",276,"Yes;No","final","13765334.8973247;1892.84841305263","uniswap"
+"QmWbgzHJ8nK2TDaj6LF6BxAMPahy97dMmbbU5kRBw1QkXt","QmWbgzHJ8nK2TDaj6LF6BxAMPahy97dMmbbU5kRBw1QkXt","0x070341aA5Ed571f0FB2c4a5641409B1A46b4961b",1628284314,"1","single-choice","Consensus Check: Upgrade Governance Contract to Governor Bravo","Upgrade Uniswap’s current governance contract from Governor Alpha to Governor Bravo to improve governance upgradability and protocol safety. 
+
+Specifically, we plan on using Compound’s Governor Bravo contract rather than Open Zeppelin's reimplementation. The reasoning for doing so can be found under the ""Implementation"" section of the [proposal](https://gov.uniswap.org/t/consensus-check-upgrade-governance-contract-to-governor-bravo/13707).
+
+The contracts have been deployed to Ropsten for the community to review. Links can be found below:
+[Governor Bravo Delegator](https://ropsten.etherscan.io/address/0x15df15caad12adaa03949014ba5cc49a84803d0f#code)
+[Governor Bravo Delegate](https://ropsten.etherscan.io/address/0xD8bf60dfC5115F6cB99bb50502346E7b863800f1#code)
+[Github for contracts](https://github.com/gettty/uniswap-gov)",1628510400,1628899200,"closed",605,"Upgrade to Governor Bravo;Do not upgrade to Governor Bravo","final","19647554.394416;862.990905231345","uniswap"
+"QmYeNLn1x2AxfzrU2G4nkxDRBDju9f4EF2dzs2xAqBoK31","QmYeNLn1x2AxfzrU2G4nkxDRBDju9f4EF2dzs2xAqBoK31","0xFFc14dF86148C538e149283d33FE0ac141e755F1",1629942438,"1","single-choice","Temperature Check: Support $oneUNI Stablecoin","This Snapshot is created for the temperature check to support the oneUNI stablecoin launched by ICHI.
+
+You can find the full proposal here: https://gov.uniswap.org/t/temperature-check-support-oneuni-stablecoin/13903
+
+**Napkin Math**
+ 
+$oneUNI is currently minted with 98% $USDC and 2% $UNI. The goal of this proposal is to loan $UNI to the $oneUNI contract so that the minting ratio may be lowered from 98% to 80%. This means users will begin depositing $0.20 of $UNI and $0.80 of $USDC to mint each $oneUNI.
+
+**Proposal: How much $UNI will be used to mint Stable UNI ($oneUNI) by 11/30/2021?**
+
+If you don’t want Uniswap to loan any $UNI, pick option 1 ‘Make no change’.
+If you want Uniswap to support this effort, pick options 2-7. The actual requested loan amount will be the $UNI-weighted average of these selections. Every $UNI counts!
+Why isn’t this a single yes vote? Vitalik proposed a ‘skin in the game’ solution to break the ‘tragedy of commons’ problem in token voting. As a first step, our idea is to make the voters focus on predicting the desired outcome of supporting Stable UNI. If this vote passes ‘Temperature Check’, we would like to discuss a potential reward for most accurate voters as part of the ‘Consensus Check’ process.
+
+The full proposal is at: https://gov.uniswap.org/
+",1630015200,1630187940,"closed",285,"No support;25k - 50k (37.5k $UNI loan);50k - 100k (75k $UNI loan);100k - 200k (150k $UNI loan);200k - 400k (300k $UNI loan);400k - 800k (600k $UNI loan);800k+ (1M $UNI loan)","final","62.4905167609098;7.86405960998288;84.994121623063;152.578179753997;1.98938028284778;3.1;212020.463100439","uniswap"
+"QmcpJ8Qm9V4LfK5ncpPvGpCEkzt2uV9jahueX2CR9YLGVv","QmcpJ8Qm9V4LfK5ncpPvGpCEkzt2uV9jahueX2CR9YLGVv","0xF569914d4E46cBD6A91fDE6c8850a079604A271b",1631913923,"1","single-choice","Should we deploy Uniswap V3 on AVAX?","There are already a bunch of V2 forks on AVAX with which the apes over there are making due.
+
+But I, for one, would like to provide some concentrated liquidity over there.
+
+Who thinks we should bring V3 to AVAX?",1631869200,1632128400,"closed",228,"Yes, Bring V3 to AVAX;No, V3 Should Stay on ETH & L2s","final","10029.3265045406;1","uniswap"
+"QmRKyYeGRFAhBnsqRXHVVwpmmVWxWdybUTVqLM7c52EonT","QmRKyYeGRFAhBnsqRXHVVwpmmVWxWdybUTVqLM7c52EonT","0x7f416e7a586d45ed2A4e77877E1d253f48105491",1634565555,"1","single-choice","Should the DEF move its assets to a custodial wallet viewable on chain?","The DeFi Education Fund (DEF) proposes to move the organization's assets to a custodial wallet viewable on chain. Here is the governance forum thread debating this idea: https://gov.uniswap.org/t/moving-defs-assets-to-an-on-chain-custodial-wallet-to-bolster-security/14328
+
+This is the right move for the organization for several reasons:
+1. The governance proposal that funded the DEF envisioned the implementation of a security-enhancing product like Tally's Safeguard onto the multisig, but it's not ready for implementation. Safeguard would give UNI governance the ability to (i) stop any multisig transaction from taking place, and (ii) request funds sitting in the multisig to be sent back to the Community Treasury. These features would significantly enhance the security of the multisig against unauthorized/coerced/ etc. transactions.
+2. Moving to a custodial wallet likely will present fewer risks to the fund's assets than relying on a four of seven multisig controlled by the committee's publicly-identified committee members, each being effectively 1/4 of a $22M bearer asset.
+3. The DEF would only onboard with a custodian that would support an individual wallet for the DEF's assets, meaning it would offer the same level of transparency as a multisig. 
+
+Other details: 
+1. Custodian criteria: Security, transparency, and cost. How the custodial wallet would be visible on chain is probably the factor with the most variance across custodians. For example, some use omnibus wallets for multiple clients’ assets, some create a new wallet every time a transaction is completed, etc. A dedicated wallet would be an absolute must in order for the DEF’s funds to be viewable/verifiable on chain, and ideally the wallet wouldn’t change every time there was a transaction in and out of the wallet because that would make viewing/verifying the assets a hassle for the community. When moving assets to the centralized custodian, the DEF would incur a fee based on the dollar value of the assets, which is typically in the range of 25-50 basis points per year. If the DEF moves forward with this proposal, the hope is to work with a custodian sympathetic to the organization's mission who could offer the DEF a ""deal"" on cost. 
+2. The DEF would directly on-board with a custodian, and the DEF would continue to pre-announce and explain withdrawals from the custodial wallet on its blog. The DEF would only use a custodian that wouldn’t move any of the assets unless four of the seven committee members validate a transaction to vindicate the four of seven requirement of the current multisig. In other words, only consensus among four of the seven committee members would have the power to validate an outgoing transaction.
+3. There has been no security issue to date motivating this proposal.
+4. The DEF initiated this snapshot but will not vote on it. 
+
+Thanks all",1634565600,1634738400,"closed",252,"Yes, should move;No, should not move","final","2166.80361324518;2723933.81822192","uniswap"
+"QmP3H8WGLiWTP2WumKyrq8yA1xz1XbwkT8brdGYePuAcES","QmP3H8WGLiWTP2WumKyrq8yA1xz1XbwkT8brdGYePuAcES","0x9B68c14e936104e9a7a24c712BEecdc220002984",1635117840,"1","single-choice","Consensus Check - Add 1 Basis Point Fee Tier","# Consensus Check - Add 1 Basis Point Fee Tier 
+
+## TLDR:
+Uniswap should add a 1bps fee tier with 1 tick spacing. This change is straightforward from a technical perspective and would help Uniswap compete in stablecoin <> stablecoin pairs, where the majority of the market share is taken by Curve and DODO.
+
+[Forum post](https://gov.uniswap.org/t/consensus-check-add-1-basis-point-fee-tier/14612?u=getty)
+
+(the post exceeds Snapshot's 4800 character limit)
+",1635116400,1635548400,"closed",389,"Add 1bps fee tier (1 tick);No change","final","16362714.5595008;6.30421814764606","uniswap"
+"0x9238864aae86f3f7430670dab6c2b4afd793ddcdabe8e2dffe0964d41a3919aa","Qmf9EmwMavbUvMatTQV9XzSrepttypRiw7Qn3Zu3HuaGiz","0x79C4213a328E3B4F1D87b4953C14759399dB25E2",1636379292,"1","single-choice","Temperature Check - Should Uniswap incentivize Liquidity on Optimism and Arbitrum?","Uniswap governance should start incentivizing liquidity on its Arbitrum and Optimism deployments to kickstart adoption of Ethereum Layer-2 and prove that its decision to bet on Optimistic Rollups was the right one.
+
+Read more: https://gov.uniswap.org/t/temperature-check-should-uniswap-incentivize-liquidity-on-optimism-and-arbitrum/14804",1636390800,1636538400,"closed",232,"Yes;No ","final","23230.9953073593;211247.154749133","uniswap"
+"0xe377d2b8e245404c42a6892be4232e017bf44b7fcc2e72426aa95ea5a4e01783","QmPNXkT5w9iPjzRRxFo1nxgD8jcBn4ooSdKFEk4N7jfXB2","0x79C4213a328E3B4F1D87b4953C14759399dB25E2",1637053252,"1","single-choice","Temperature Check - Should Uniswap incentivize liquidity on Arbitrum and Optimism?","Uniswap governance should start incentivizing liquidity on its Arbitrum and Optimism deployments to kickstart adoption of Ethereum Layer-2 and prove that its decision to bet on Optimistic Rollups was the right one.
+
+I am re-submitting this proposal as it was ambushed last minute by a *single* no-voter despite overwhelming enthusiasm in the community. Several large delegates reached out after the vote voicing support for a re-submission.
+
+Read more: https://gov.uniswap.org/t/temperature-check-should-uniswap-incentivize-liquidity-on-optimism-and-arbitrum/14804",1637053500,1637316000,"closed",300,"Yes;No","final","14534706.0922561;228604.709411943","uniswap"
+"0x47a6eed75673f33e8eb5d7abbfc0279d8c113ec7fa51f8b61c1abcd66dc091c6","Qmbkg66DLfeFvmmUrL7eiS7b2M756nVBdCd9wYB392Jvuo","0xAc61FfD736EdF06D0E2CDFac99d22a189d9ad620",1637611508,"1","single-choice","Should Uniswap v3 be deployed to Polygon?","Dear Uniswap community,
+
+The Polygon team submitted a proposal to deploy Uniswap V3 to Polygon PoS chain: https://gov.uniswap.org/t/deploy-uniswap-v3-to-polygon-pos-chain/15058
+
+We firmly believe this is the right moment for this deployment to happen, for reasons explained in the proposal. We are willing to actively support Uniswap on Polygon (financially and otherwise) and we are convinced it would be a huge success!
+
+Let's make this happen!
+
+",1637575200,1637834400,"closed",300,"Yes;No","final","7788589.57036826;101","uniswap"
+"0xfb9841f0cd2111b078ffbcc9efe5a0d552907ee290b0851c8d69350b26530ed0","Qmdep374PdWoN6ozWvnoxxV82fj47wwsuRVdWsnmKPkCU6","0x954933147Bf9e6a919C8822aE36D98868026606f",1637909627,"1","single-choice","Is uniswap supported to accelerate layer2?","As we all know, the gas price has been very high, which has seriously affected people's trading frequency,
+
+Is uniswap supported to accelerate layer2?",1637971200,1639612800,"closed",467,"support;veto","final","2511597.59152126;212094.645353035","uniswap"
+"0xe869bc63ed483f00c520129724934a206b433dec613a498100e25f9f10fbeac7","QmdYse244UeC4NmS4UReZ1R3hcHsWrXNENWbBaPrjKs8K7","0xAc61FfD736EdF06D0E2CDFac99d22a189d9ad620",1638148281,"1","single-choice","Consensus Check - Should Uniswap v3 be deployed to Polygon?","Dear Uniswap community,
+
+Roughly a week ago, we (the Polygon team) submitted an official proposal to deploy Uniswap v3 to Polygon PoS: https://gov.uniswap.org/t/deploy-uniswap-v3-to-polygon-pos-chain/15058.
+
+Temperature Check, the first phase of the governance process, went exceptionally well; 7.79M UNI (~100%) voted yes, orders of magnitude more than the required 25k UNI quorum!
+
+We are now initiating Consensus Check, the second (out of three) phase of the governance process: https://gov.uniswap.org/t/consensus-check-deploy-uniswap-v3-to-polygon-pos-chain/15262
+
+We kindly ask for your support. Let's make this happen!
+
+
+
+",1638144000,1638489600,"closed",379,"Yes;No","final","44033742.1611962;501031.939852184","uniswap"
+"0xc1aec11c9ac5698920072a5de807284a56becbadfb7bef68b2618ad00e61547c","QmeGvcbnLJmfVWbigS9x9BJS4BBpJ7WQY7gr2oR7BPtUG7","0x79C4213a328E3B4F1D87b4953C14759399dB25E2",1638281051,"1","single-choice","Consensus check - Should Uniswap incentivize liquidity on Optimism and Arbitrum? ","Dear Uniswap community,
+
+Two weeks ago I submitted a proposal for Uniswap to incentivize liquidity on L2's to make its deployment on L2's a success and help kickstart L2 adoption.
+
+I am hereby re-submitting the proposal after it passed the temperature check. This proposal includes many details on how to execute the liquidity mining program.
+
+Forum post: https://gov.uniswap.org/t/consensus-check-should-uniswap-incentivize-liquidity-on-optimism-and-arbitrum/15288",1638282600,1638536400,"closed",275,"Yes;No","final","19711622.2004895;215036.990551423","uniswap"
+"0x1994d4598b81dbb511bc7068f65a12fdf0ddbf2b26f5b7313e087750c5f9c0b7","QmRZGDs6BuYT52VJFLeCki68tF1ziYbYHwvcRsdGk8wMev","0x9997d7120862CEda99aB4a1c43698e0941F87b20",1639545491,"1","single-choice","Temperature Check—Support izumi Finance as Uniswap V3 official partner of Liquidity Mining Platform","1. izumi Finance offered ""Programmable Liquidity as a Service"" on Uniswap V3, which has much higher capital efficiency than the traditional Liquidity Mining program. 
+2. Uniswap Labs could partner with izumi Finance to cost-free provide Liquidity Mining program supports for any trading pair on Uniswap V3.
+
+For More info, you could check Uniswap Governance Forum.
+",1639540800,1640059200,"closed",253,"YES;NO","final","10167.8568802223;3012840.20502103","uniswap"
+"0x4f42b3215c4028edd947dc69980a9b8ba837ffbe3d0caa60d999406d634c8e79","QmSEdtqTkhWXQvSUxujMT3tBYdrP4MxrnL19WfXaH6epf4","0xFD4295c1A0b07e6b706f0Ab83dC9eB461b7f17B3",1642531258,"1","single-choice","Temperature Check - Should Uniswap Provide Voltz with v3 Additional Use Grant?","Dear Uniswap Community,
+
+The Voltz Labs team recently submitted a proposal to request for an “Additional Use Grant” from Uniswap governance. This would allow Voltz to use aspects of the Uniswap v3 code that is subject to the “Business Source License”.
+
+Voltz is a new DeFi primitive, bringing interest rate swaps to DeFi in a manner that is up to 3000x more capital efficient than alternative models. Voltz, therefore, is not a competitor to Uniswap but instead is complementary; interest rate swaps are a core pillar of well-functioning financial systems - so as Voltz grows it should help DeFi grow, which in turn should have second order benefits to Uniswap.
+
+That said, the Voltz Labs team recognise the significant R&D that went into v3 and as a result are offering Uniswap governance 1% of Voltz future tokens alongside a number of additional non-financial benefits. The full proposal, and discussion, can be found here: https://gov.uniswap.org/t/should-uniswap-provide-voltz-with-v3-additional-use-grant/15669?u=simonj
+
+Following positive feedback, including the discussion with the Voltz Labs founders on the Uniswap discord community call last week, we are now initiating the Temperate Check with the Uniswap community.
+
+We’re excited to see how the community votes. And excited about the opportunity to make this happen and set a precedent for DeFi!
+",1642582800,1642842000,"closed",354,"Yes;No","final","235389.288386826;423.957826968242","uniswap"
+"0xbfeb7f3c4a3f1d4979b59129f9a78ee217183b0656a480612d261233fb3f8c62","QmNXLjasGfYhFP4QqY6WUgpUZmmpCAGxZQpPf8LP9LVnnU","0xFD4295c1A0b07e6b706f0Ab83dC9eB461b7f17B3",1644175124,"1","single-choice","Consensus Check -  Should Uniswap Provide Voltz with v3 Additional Use Grant","Dear Uniswap Community,
+
+A few weeks ago, Voltz submitted a proposal to request for an “Additional Use Grant” from the Uniswap Community. This would allow Voltz to use aspects of the v3 code that is subject to a “Business Source License”. Voltz recognises the significant R&D that went into v3 and as a result is offering Uniswap Governance 1% of Voltz future tokens, alongside a number of non-financial benefits. The full proposal is available here https://gov.uniswap.org/t/should-uniswap-provide-voltz-with-v3-additional-use-grant/15669?u=simonj
+
+We were delighted and humbled by the response from the Uniswap Community to our Temperature Check vote, with >99% voting in favour of our proposal! The Temperature Check also met the 25k UNI Yes threshold required to pass.  https://snapshot.org/#/uniswap/proposal/0x4f42b3215c4028edd947dc69980a9b8ba837ffbe3d0caa60d999406d634c8e79 
+
+We are now kicking off the Consensus Check - the 2nd of 3 votes, which requires 50k UNI Yes votes to pass - with the community. https://gov.uniswap.org/t/consensus-check-should-uniswap-provide-voltz-with-v3-additional-use-grant/16012?u=simonj
+
+We’re excited to see how the community votes! And we’re excited to make this happen and set a precedent for DeFi! 
+
+
+**Voltz TL;DR**
+
+Voltz is a new DeFi primitive, bringing interest rate swaps to DeFi in a manner that is up to 3000x more capital efficient than alternative models. Voltz, therefore, is not a competitor to Uniswap but instead is complementary; interest rate swaps are a core pillar of well-functioning financial systems - so as Voltz grows it should help DeFi grow, which in turn should have second order benefits to Uniswap.
+",1644224400,1644656400,"closed",362,"Yes;No","final","3284888.29998317;403","uniswap"
+"0xe3d59b3439ac0519b02ff39606e0ad571cc9fa7a05b334b6f87df09b2c883879","QmX9hHcA5HwZiVcGg4qNdWetDAe8FrtJaDYuTL718xbexi","0x98e3623bCa45BF01D58E833811882777C8C015F8",1644420883,"1","single-choice","Temperature Check - Deploy Uniswap V3 on Harmony through an Additional Use Grant to Hermes DeFi","Dear Uniswap community,
+
+Since our initial proposal submission 9 days ago to bring Uniswap V3 technology to Harmony, we have seen an extremely positive response from both the Harmony and Uniswap communities. We have integrated community feedback and compiled a revised proposal and have posted it on the Uniswap governance forum: https://gov.uniswap.org/t/temperature-check-deploy-uniswap-v3-on-harmony-through-an-additional-use-grant-to-hermes-defi/16128
+
+In summary, Hermes DeFi is requesting an Additional Use grant from Uniswap to deploy Uniswap V3 based smart contracts to power a new AMM/DEX on the Harmony blockchain.
+
+In exchange for this permission, the Uniswap DAO will receive:
+1. A 10% allocation of HERMES tokens
+2. 25% of platform trading fees, returned as IRIS (decreasing 5% each year for the next 5 years)
+3. 50% of platform trading fees for the IRIS/1UNI pair, which will have a dedicated farm for the foreseeable future.
+4. 2% of IRIS supply (governance token of Hermes).
+5. Lending and borrowing support for 1UNI upon the launch of our lending market.
+6. The ability to bond 1UNI to earn HERMES as a mechanism of protocol-owned liquidity.
+",1644421200,1644853200,"closed",275,"Yes, grant the license.;No, do not grant the license.","final","8370.85343794699;1742.82849420969","uniswap"
+"0x68ed38529f4d81957cf30a3c441b93d321dcf14273c2e2f3aa32617bd1ac65fe","QmejaF8Vq6HP6chJG2nP9xwa9m2s1nmqcsSkmgokSd43BN","0xA7F63376169ccC087EB1160E62ceCcB146C1d555",1644488753,"1","ranked-choice","How should Uniswap community support ""Adopt unicorn on unicode"" proposal","Following the discussion the Uniswap community had during the community call 20 we came to conclusion that community likes this idea.
+
+However the technicalities of the execution itself are something to be discussed. If you check the unicode adoption website adopting a character can only be done via credit card. This means funds we raise need to be converted to FIAT and only then a payment can be made.
+
+Approaches we discussed are:
+
+1) Someone we trust in the community creates an address and everyone in the community can donate to that address. That person will then make a donation using credit card and they will be reimbursed with crypto assets we raise.
+
+2) Several members create a multisig and process is pretty much the same as 1)
+
+3) We utilize a PartyDAO (https://www.partybid.app/)  where either individual or several members put up an NFT for sale. If we reach a target and NFT is sold that funds can then be used in similar way as 1) and 2)
+
+4) Trusted member of the community makes a grant proposal to the UGP (https://www.unigrants.org/)
+
+During the community call it was agreed that BOR4 (myself) will make this vote on snapshot.
+
+PS if you don't have UNI delegated to you but you are still interested in participating you can also leave a comment on gov forum and we will take this feedback also in the account. ",1644490800,1645095600,"closed",177,"individual creates an address;committee with a multisig;individual sells NFT on partybid;committee sells NFT on partybid;submission to the UGP","final","13811.7662280105;8028.52545476007;3;1;58.0397002820882","uniswap"
+"Qmcs5pAv7eGBzqGn1G8LJGusME3t7bTCSfZjdyWmw88LaM","Qmcs5pAv7eGBzqGn1G8LJGusME3t7bTCSfZjdyWmw88LaM","0x6c34cFEA4870289198608460Be23B82fB71144aa",1644725173,"1","single-choice","Funding the Fee Switch Activation","Should the UNI governance allocate 0.3 – 1 M UNI to fund an organization to oversee and manage the application of the fee switch mechanism on Uniswap V3 and V2 protocols?
+",1644775200,1645466400,"closed",335,"Yes;No","final","13350.1390169964;6409561.71416442","uniswap"
+"0x85a309c742abb3daf8e2d73a6c940c5315b3bf42ab8a8b22340d6e91cb3e8bde","QmPb7uSWtg5edFCbWJJcE3xv41FwF3soQqAGQeZ22vCK3u","0x8c64C3D24c4Df13B451D5BC9292b75E5dbA2e02A",1646222042,"1","single-choice","Should Uniswap governance contribute funding to the Nomic Foundation?","## **Summary**
+
+- Nomic Labs, the team behind Hardhat, has become the Nomic Foundation, a non-profit organization dedicated to Ethereum. Our mission is to empower developers to decentralize the world.
+- The Nomic Foundation's work will be focused on Ethereum's developer platform with the objective of achieving a world-class developer experience, and generally improving Ethereum's public goods support structures.
+- [Hardhat](https://hardhat.org/) is the de facto standard developer tool used to build Ethereum software, with more than 23000 Github repositories using it and tens of thousands of active users. Prominent teams relying on it include ENS, Uniswap, Optimism, OpenZeppelin, Aave, Balancer, Chainlink, Synthetix, and many more leading teams.
+- The new foundation will expand the Hardhat suite of tools and, most importantly, build long-term infrastructure to catalyze organic growth in the Ethereum tooling ecosystem, decreasing Ethereum's dependence on any one organization to build and maintain core development platform components.
+- Seeking $30m in total funding from the ecosystem. Donations of $15M already secured by the Ethereum Foundation, Vitalik Buterin, Coinbase, a16z, The Graph, Polygon, Chainlink, a16z, and Kaszek Ventures.
+- **We're proposing to Uniswap Governance to make a contribution of $5m to the Nomic Foundation to support its mission.**
+
+## **Ethereum developer experience**
+
+When it comes to Ethereum, which is primarily a software development platform to build decentralized systems, developer experience is a key strategic aspect for success. Ecosystem growth requires more developers to build more software on top of Ethereum. Developer adoption and learning speed, core contributors to this growth, are critically affected by developer experience.
+
+The rate at which the ecosystem innovates, coming up with new creations and solving difficult problems, both at the dapp layer and EVM/Solidity/Vyper layer, is also directly affected by developer productivity.
+
+Software development platforms aren't new, and playbooks established by the great developer experience success stories (Rust, .Net, TypeScript, etc) prove that achieving a quality developer experience requires a specialized approach paired with a long-term, big-picture strategy. The potential impact in executing a dedicated effort for Ethereum would increase the ecosystem’s pace of innovation and growth, building a powerful compounding effect over the long term for the entire industry.
+
+The inspiration for our vision came from our experience building Hardhat, which allowed us to see how deeply challenging it is to build sophisticated Ethereum tooling. **These challenges must be alleviated to bring about organic ecosystem-led improvement of developer experience that achieves world-class quality.**
+
+## **Nomic Foundation**
+
+Nomic Labs has been fully dedicated to Ethereum developer experience since 2019, and we're [now pivoting](https://medium.com/nomic-labs-blog/introducing-the-nomic-foundation-an-ethereum-public-goods-organization-31012af67df9) to a non-profit foundation formally dedicated to Ethereum. We're aiming to build a long-lasting organization that makes Ethereum's public goods support structures stronger by contributing to the Ethereum Foundation's existing efforts, and reducing the ecosystem's reliance on any one organization for development platform components.
+
+### **Roadmap**
+
+Given the size and innovation pace of the ecosystem, there's no way to foresee exactly what needs developers are going to have as things scale. However, we do know what engineering foundations the ecosystem will need in order to build its own solutions.
+
+Our overarching engineering strategy is to empower the ecosystem to build its own specialized tools. This plan is based on four strategic pillars of the stack, each of which offers an opportunity to leverage a platform to empower the ecosystem to keep building open-source infrastructure.
+
+For each of these pillars, we will build a platform. The four ecosystem pillars and platform opportunities we've identified are:
+
+1. Solidity
+2. EVM tooling
+3. Local development environment
+4. Ethereum connector library
+
+## **The projects**
+
+### **Slang & Rethnet**
+
+Over the long term, these are our most important projects. Targeting the Solidity and EVM tooling pillars, Slang and Rethnet will serve as core infrastructure for the ecosystem to build new tools faster, cheaper, and better. We're essentially building the tools that would have let us build Hardhat a lot faster. We previously published a [Medium post](https://medium.com/nomic-labs-blog/slang-rethnet-2ad465fd7880) with high-level descriptions of how both projects will complement each other.
+
+**Slang**
+
+A Solidity compiler designed as a platform for tooling development, an approach also known as compiler as a service. Its top priority will be servicing tools through domain-specific APIs. Much like .Net's Roslyn, it will feature a compilation pipeline made of distinct reusable components with standalone APIs. A completely modular design guarantees that others can build on top of it by replacing the part of functionality they need to, and reusing everything else:
+
+1. Parser that is only concerned with producing trees from code. Usable on its own, for example, to create third-party formatters like Prettier plugins.
+2. Semantic analysis (binding) is concerned only with building a type system and validating the produced trees. Usable on its own, to implement third-party type checking, security/threat models, and more advanced third-party linting.
+3. Code generation. By replacing just this isolated part, the compiler can compile for different targets (e.g. non-EVM L2s).
+4. Language services. These will receive an immutable representation of the above (syntax trees, bound trees, codegen settings), and will only be tasked with answering questions. Usable on its own to expose in different IDEs (same service for VSCode, IntelliJ, Vim, etc). Reusable to extend the functionality of other editor features (task runners, testing, deployment, CI, debugging).
+5. Runtime observation APIs to support Rethnet.
+
+All of this will be reusable to create entirely new EVM programming languages, since by replacing the parser and type system, one can get an entire high-quality toolchain working from the get-go.
+
+**Rethnet**
+
+To provide a simulated environment where developers can build and test their Ethereum software, tools need to replicate many of the components that make up a full Ethereum node implementation. This is a significant engineering effort, which given the complexity of Ethereum, represents a barrier to entry to tooling development given the depth of knowledge that is required.
+
+Rethnet aims to make this easier by offering a native, flexible, extensible, fast, and language-agnostic EVM local development network, distributed as a Rust library, that is designed to be the underlying core in tools that provide debugging information to developers (like Hardhat, Foundry, Remix, Truffle, DappTools, etc). It will be a Rust library made to be consumed from other languages like TypeScript, Go, Python, etc as a native dependency. It will implement the baseline of essential functionality every tool should have like Solidity console.log, stack traces, and descriptive error messages, as well as implement code coverage, gas profiling, and a step debugger. At its core, it's an implementation of an Ethereum node with a layer of EVM runtime observation to provide development features.
+
+Building a new Hardhat, Truffle, Remix, or DappTools using Rethnet will be a much more manageable project, and Rethnet will be completely reusable for any EVM language through adapters.
+
+### **Hardhat**
+
+Our flagship project targets the local development environment pillar, and it's currently at an advanced level of progress and adoption. While Slang and Rethnet mature and catalyze organic growth in the tooling space, developers still have needs to be met, positioning Hardhat as our immediate-term solution to empower developers to keep decentralizing the world.
+
+Hardhat is an Ethereum development environment that developers use to compile, deploy, test, and debug Ethereum software. Most importantly, it's highly flexible, extensible, and designed to empower the community to build their own solutions. This strategy has been successful, and there's already [a valuable ecosystem of reusable plugins](https://hardhat.org/plugins/).
+
+Hardhat's roadmap is focused on becoming an extensible development environment with deep integrations across components in key areas of the tooling stack:
+
+- [Hardhat VSCode](https://medium.com/nomic-labs-blog/hardhat-vscode-9de29467fc26) — programming editor
+- [Hardhat Ignition](https://medium.com/nomic-labs-blog/hardhat-ignition-5a34a4e3d2de) — contract deployment
+- [Hardhat Network](https://hardhat.org/hardhat-network/) — local development network
+- [Hardhat Runner](https://hardhat.org/getting-started/#overview) — build/testing workflow
+
+This roadmap leads to developers being well equipped to build powerful extensions to their workflow that increase their productivity according to their exact needs, and to then share them with the ecosystem in the form of plugins.
+
+Hardhat will also eventually migrate to using Rethnet and Slang, increasing its feature richness, speed, and stability while enabling dogfooding at scale for our brand new building blocks.
+
+### **Web3.js as a frontend platform**
+
+The OG Ethereum connector library, Web3.js, is being revitalized into a high-value project. By focusing on community and ecosystem growth, supported by an extensible architecture, it can become a great source of value, much like React represents in the front-end world, but for dapps. A website hub connecting community spaces, support spaces, educational resources, extensions, and related projects, combined with an active ecodev effort (workshops, talks, contests, and incentives), will create a source of leverage for the ecosystem. This will provide better troubleshooting, faster developer training, more reusable code, and, most importantly, the possibility of extending the library. This effort is currently spearheaded by the ChainSafe team.
+
+## **Funding**
+
+The Nomic Foundation aims to benefit the entire Ethereum ecosystem, which is why we’re fundraising across multiple organizations and individuals within it.
+
+The Ethereum Foundation is leading this round of contributions with $8M, alongside contributions from Vitalik Buterin, Coinbase, Consensys, The Graph, Polygon, Chainlink, Gnosis, a16z, a_capital, and Kaszek Ventures. These donors make up $15M, and we're aiming to raise $15M more.
+
+## **Why Uniswap?**
+
+Generally, we think that allocating capital to the Nomic Foundation makes strategic sense for any protocol treasury that is aligned long term with the growth of Ethereum, and we've approached and will continue approaching several protocols.
+
+Currently, Uniswap [is built using Hardhat](https://github.com/Uniswap/v3-core/blob/main/hardhat.config.ts). While this is a signal of Hardhat’s value, the projects that the Nomic Foundation will deliver will create more value not just for Uniswap, but for the entire ecosystem. We’ll provide services to the Ethereum community that will:
+
+1. Continue the maintenance of critical infrastructure used to build most protocols (Hardhat).
+2. Increase developer productivity for every team in the ecosystem.
+3. Accelerate developer onboarding to Ethereum, increasing the size of the experienced engineering hiring pool and making time-to-productivity shorter for new hires.
+4. Accelerate the pace of innovation and the number of products being built.
+5. Increase market volume driven by new users and new products.
+
+We believe this grows the market for everyone, including Uniswap, and we’d love to have the **Uniswap DAO contribute $5m in funding to this community effort**.",1646221925,1646395200,"closed",851,"Yes;No","final","2507535.8792661;23.7","uniswap"
+"0x92a16fbf16e7b113700bb2a20b3ca1b71ce678c4b818983e7412eb059cff776a","Qmd9Pyo5eiBjAVrpXQUaP1PQ1bDLKRQmUU9dxg5AzCBpAp","0x8c64C3D24c4Df13B451D5BC9292b75E5dbA2e02A",1646653642,"1","single-choice","Consensus Check - Should Uniswap governance contribute funding to the Nomic Foundation?","## **Summary**
+
+* Nomic Labs, the team behind Hardhat, has become the Nomic Foundation, a non-profit organization dedicated to Ethereum. Our mission is to empower developers to decentralize the world.
+* The Nomic Foundation’s work will be focused on Ethereum’s developer platform with the objective of achieving a world-class developer experience, and generally improving Ethereum’s public goods support structures.
+* [Hardhat](https://hardhat.org/) is the de facto standard developer tool used to build Ethereum software, with more than 23000 Github repositories using it and tens of thousands of active users. Prominent teams relying on it include ENS, Uniswap, Optimism, OpenZeppelin, Aave, Balancer, Chainlink, Synthetix, and many more leading teams.
+* The new foundation will expand the Hardhat suite of tools and, most importantly, build long-term infrastructure to catalyze organic growth in the Ethereum tooling ecosystem, decreasing Ethereum’s dependence on any one organization to build and maintain core development platform components.
+* Seeking $30m in total funding from the ecosystem. Donations of $15M already secured by the Ethereum Foundation, Vitalik Buterin, Coinbase, a16z, The Graph, Polygon, Chainlink, a16z, and Kaszek Ventures.
+* **We’re proposing to Uniswap Governance to make a contribution of $5m to the Nomic Foundation to support its mission.**
+
+## **Nomic Foundation**
+
+Nomic Labs has been fully dedicated to Ethereum developer experience since 2019, and we’re [now pivoting](https://medium.com/nomic-labs-blog/introducing-the-nomic-foundation-an-ethereum-public-goods-organization-31012af67df9) to a non-profit foundation formally dedicated to Ethereum. We’re aiming to build a long-lasting organization that makes Ethereum’s public goods support structures stronger by contributing to the Ethereum Foundation’s existing efforts, and reducing the ecosystem’s reliance on any one organization for development platform components.
+
+### **Roadmap**
+
+Given the size and innovation pace of the ecosystem, there’s no way to foresee exactly what needs developers are going to have as things scale. However, we do know what engineering foundations the ecosystem will need in order to build its own solutions.
+
+Our overarching engineering strategy is to empower the ecosystem to build its own specialized tools. This plan is based on four strategic pillars of the stack, each of which offers an opportunity to leverage a platform to empower the ecosystem to keep building open-source infrastructure.
+
+For each of these pillars, we will build a platform. The four ecosystem pillars and platform opportunities we’ve identified are:
+
+1. Solidity
+2. EVM tooling
+3. Local development environment
+4. Ethereum connector library
+
+## **The projects**
+
+### **Slang & Rethnet**
+
+Over the long term, these are our most important projects. Targeting the Solidity and EVM tooling pillars, Slang and Rethnet will serve as core infrastructure for the ecosystem to build new tools faster, cheaper, and better. We’re essentially building the tools that would have let us build Hardhat a lot faster. We previously published a [Medium post](https://medium.com/nomic-labs-blog/slang-rethnet-2ad465fd7880) with high-level descriptions of how both projects will complement each other.
+
+**Slang**
+
+A Solidity compiler designed as a platform for tooling development, an approach also known as compiler as a service. Its top priority will be servicing tools through domain-specific APIs. Much like .Net’s Roslyn, it will feature a compilation pipeline made of distinct reusable components with standalone APIs. A completely modular design guarantees that others can build on top of it by replacing the part of functionality they need to, and reusing everything else:
+
+1. Parser that is only concerned with producing trees from code. Usable on its own, for example, to create third-party formatters like Prettier plugins.
+2. Semantic analysis (binding) is concerned only with building a type system and validating the produced trees. Usable on its own, to implement third-party type checking, security/threat models, and more advanced third-party linting.
+3. Code generation. By replacing just this isolated part, the compiler can compile for different targets (e.g. non-EVM L2s).
+4. Language services. These will receive an immutable representation of the above (syntax trees, bound trees, codegen settings), and will only be tasked with answering questions. Usable on its own to expose in different IDEs (same service for VSCode, IntelliJ, Vim, etc). Reusable to extend the functionality of other editor features (task runners, testing, deployment, CI, debugging).
+5. Runtime observation APIs to support Rethnet.
+
+All of this will be reusable to create entirely new EVM programming languages, since by replacing the parser and type system, one can get an entire high-quality toolchain working from the get-go.
+
+**Rethnet**
+
+To provide a simulated environment where developers can build and test their Ethereum software, tools need to replicate many of the components that make up a full Ethereum node implementation. This is a significant engineering effort, which given the complexity of Ethereum, represents a barrier to entry to tooling development given the depth of knowledge that is required.
+
+Rethnet aims to make this easier by offering a native, flexible, extensible, fast, and language-agnostic EVM local development network, distributed as a Rust library, that is designed to be the underlying core in tools that provide debugging information to developers (like Hardhat, Foundry, Remix, Truffle, DappTools, etc). It will be a Rust library made to be consumed from other languages like TypeScript, Go, Python, etc as a native dependency. It will implement the baseline of essential functionality every tool should have like Solidity console.log, stack traces, and descriptive error messages, as well as implement code coverage, gas profiling, and a step debugger. At its core, it’s an implementation of an Ethereum node with a layer of EVM runtime observation to provide development features.
+
+Building a new Hardhat, Truffle, Remix, or DappTools using Rethnet will be a much more manageable project, and Rethnet will be completely reusable for any EVM language through adapters.
+
+### **Hardhat**
+
+Our flagship project targets the local development environment pillar, and it’s currently at an advanced level of progress and adoption. While Slang and Rethnet mature and catalyze organic growth in the tooling space, developers still have needs to be met, positioning Hardhat as our immediate-term solution to empower developers to keep decentralizing the world.
+
+Hardhat is an Ethereum development environment that developers use to compile, deploy, test, and debug Ethereum software. Most importantly, it’s highly flexible, extensible, and designed to empower the community to build their own solutions. This strategy has been successful, and there’s already [a valuable ecosystem of reusable plugins](https://hardhat.org/plugins/).
+
+Hardhat’s roadmap is focused on becoming an extensible development environment with deep integrations across components in key areas of the tooling stack:
+
+* [Hardhat VSCode](https://medium.com/nomic-labs-blog/hardhat-vscode-9de29467fc26) — programming editor
+* [Hardhat Ignition](https://medium.com/nomic-labs-blog/hardhat-ignition-5a34a4e3d2de) — contract deployment
+* [Hardhat Network](https://hardhat.org/hardhat-network/) — local development network
+* [Hardhat Runner](https://hardhat.org/getting-started/#overview) — build/testing workflow
+
+This roadmap leads to developers being well equipped to build powerful extensions to their workflow that increase their productivity according to their exact needs, and to then share them with the ecosystem in the form of plugins.
+
+Hardhat will also eventually migrate to using Rethnet and Slang, increasing its feature richness, speed, and stability while enabling dogfooding at scale for our brand new building blocks.
+
+### **Web3.js as a frontend platform**
+
+The OG Ethereum connector library, Web3.js, is being revitalized into a high-value project. By focusing on community and ecosystem growth, supported by an extensible architecture, it can become a great source of value, much like React represents in the front-end world, but for dapps. A website hub connecting community spaces, support spaces, educational resources, extensions, and related projects, combined with an active ecodev effort (workshops, talks, contests, and incentives), will create a source of leverage for the ecosystem. This will provide better troubleshooting, faster developer training, more reusable code, and, most importantly, the possibility of extending the library. This effort is currently spearheaded by the ChainSafe team.
+
+## **Funding**
+
+The Nomic Foundation aims to benefit the entire Ethereum ecosystem, which is why we’re fundraising across multiple organizations and individuals within it.
+
+The Ethereum Foundation is leading this round of contributions with $8M, alongside contributions from Vitalik Buterin, Coinbase, Consensys, The Graph, Polygon, Chainlink, Gnosis, a16z, a_capital, and Kaszek Ventures. These donors make up $15M, and we’re aiming to raise $15M more.
+
+## **Why Uniswap?**
+
+Generally, we think that allocating capital to the Nomic Foundation makes strategic sense for any protocol treasury that is aligned long term with the growth of Ethereum, and we’ve approached and will continue approaching several protocols.
+
+Currently, Uniswap [is built using Hardhat](https://github.com/Uniswap/v3-core/blob/main/hardhat.config.ts). While this is a signal of Hardhat’s value, the projects that the Nomic Foundation will deliver will create more value not just for Uniswap, but for the entire ecosystem. We’ll provide services to the Ethereum community that will:
+
+1. Continue the maintenance of critical infrastructure used to build most protocols (Hardhat).
+2. Increase developer productivity for every team in the ecosystem.
+3. Accelerate developer onboarding to Ethereum, increasing the size of the experienced engineering hiring pool and making time-to-productivity shorter for new hires.
+4. Accelerate the pace of innovation and the number of products being built.
+5. Increase market volume driven by new users and new products.
+
+We believe this grows the market for everyone, including Uniswap, and we’d love to have the **Uniswap DAO contribute $5m in funding to this community effort** .",1646653601,1647086400,"closed",1414,"Yes;No","final","9125954.31345734;1270.20776195816","uniswap"
+"0x4fdc5d5c87669d3c99072541e1c775f8dee9b906241b2ce22203737b608c8e55","QmUUaWUVhdx2BDj8nPB1UBCdTfsN7b9xmNvdfJzoN54TTG","0x13BDaE8c5F0fC40231F0E6A4ad70196F59138548",1646927650,"1","single-choice","Should we deploy Uniswap V3 on Celo?","### Proposal Discussion Topic
+
+This proposal is created on behalf of Blockchain at Michigan, and in partnership with the [Celo Foundation](https://celo.org/) and the [Celo Climate Collective](https://climatecollective.org/).
+Deploy Uniswap V3 on Celo to Launch “Green Asset” Liquidity Pools and expand access to Uniswap to the 6B smartphone users around the world
+
+### Description
+We propose to authorize the deployment of the Uniswap protocol to Celo on behalf of the community.
+
+Celo is a mobile-first, carbon-negative, EVM-compatible blockchain. Specifically, we propose launching Uniswap on the Celo platform to:
+
+* Increase Uniswap’s influence through $10M in financial incentives to Uniswap users, as well as additional grant funding provided by the Celo Foundation to utilize Uniswap as a financial building block
+* Bring Uniswap V3’s increased capital efficiency to the 6B smartphone users around the world
+* Create green asset liquidity pools with natural capital backed assets such as tokenized carbon credits (e.g. MCO2 and TCO2) and future nature backed assets issued on Celo like land and forests
+* Use Uniswap as a decentralized mechanism to rebalance the Celo Reserve with nature backed assets rather than relying on centralized exchanges
+* Foster pathways for future green use cases on Uniswap
+
+Overall, we believe the Uniswap community’s mission of creating a trustless and decentralized financial infrastructure accessible to anyone aligns with Celo’s vision of tackling climate change and achieving prosperity for all.
+
+### About Celo
+
+Celo’s mission is to build an open financial system that creates the conditions of prosperity for all. To execute this mission, Celo’s technology features include:
+
+* A mobile-first EVM-compatible layer 1 blockchain that is accessible to anyone with a smartphone
+* Carbon negative by allocating 0.1% of epoch rewards to offset carbon—to date, [2,942](https://www.wren.co/profile/celo) tons of carbon has been offset, [which is over 8 times Celo’s carbon footprint](https://medium.com/celoorg/a-carbon-negative-blockchain-its-here-and-it-s-celo-60228de36490)
+* Algorithmic Celo stablecoins (currently cUSD, cEUR, and cREAL) with a smart-contract based expansion and contraction platform called Mento
+* An overcollateralized basket of crypto assets called the [Celo reserve](https://celoreserve.org/), currently made up of CELO, the network’s native asset, as well as BTC, ETH, DAI, and MCO2
+
+Celo is one of the fastest growing DeFi ecosystems with 2.6[M addresses, up to 1.1M daily transactions, and over 103M transactions](https://thecelo.com/). Additionally, Celo [has been chosen by Kickstarter](https://www.coindesk.com/business/2021/12/08/kickstarter-to-start-blockchain-based-crowdfunding-project-report/) for its upcoming decentralized product (to date, Kickstarter has successfully supported over[ 214,000 projects with over $6B in funding and 20M backers](https://www.kickstarter.com/help/stats)) which will attract new users to the ecosystem
+
+The Celo Reserve includes almost $1M of MCO2 tokens, and Celo community members have proposed to add more natural capital assets moving forward as part of the [Climate Collective](https://climatecollective.org/). By including more natural capital assets, the Celo community has the vision of creating natural capital backed currencies. If, as a society, we were to denominate our economic activity in natural capital backed currencies, any economic growth—increase in money circulation—would lead to a growth in preserved natural resources. Celo aims to be the layer 1 blockchain for natural capital assets, and Uniswap can be the natural capital DEX for these assets on Celo.
+
+### Proposal
+
+Blockchain technology can help address limit greenhouse gas emissions and promote sustainable practices by tokenizing carbon-sequestering assets such as rainforests. Those tokenized assets can then be purchased by individuals and businesses to democratize carbon offsetting and increase funding for environmental protection projects. We believe that together, Uniswap and Celo can lead the path to growing natural capital assets.
+
+Uniswap on the Celo platform will:
+
+* Allow for the launch of green asset liquidity pools: With the launch of the [Climate Collective](https://climatecollective.org/), Celo community members proposed to allocate up to 40% of the reserve over time towards natural capital backed assets. A natural capital backed asset (also known as “green” or “regenerative finance” asset) is a tokenized representation of natural assets in the “real” world. An example of a green asset is a non-fungible carbon-negative initiative quantified in terms of fungible CO2 sequestered (e.g. tokenized carbon credits).
+* Advance the use of natural capital backed currencies: The Celo Reserve grows as demand for Celo stable currencies grows. And as the reserve grows, so does the allocation towards green assets. This creates a feedback mechanism: with increased adoption of Celo stable currencies the reserve programmatically generates demand for additional green assets, preserving rainforests, and other carbon-sequestering assets.
+* Use Uniswap as a decentralized mechanism to rebalance the reserve: The Celo reserve will not only need to rebalance its BTC, ETH, etc. holdings but also a variety of natural capital backed assets, such as tokenized land, forests, and carbon credits. If approved by Celo’s community governance, a 40% allocation at current reserve values would correspond to natural capital assets worth 200M USD held by the reserve alone, requiring an efficient and liquid trading counterpart. Currently, the reserve rebalances via centralized exchanges. Green assets are not held by centralized exchanges, and so a decentralized exchange is needed in order to rebalance the Celo reserve as demand for stable currencies increases.
+* Increase capital efficiency: Uniswap v3’s concentrated liquidity mechanism will be especially important for Celo’s stablecoins that trade within a small price range.
+* Create pathways for future green use cases: Market participants are actively exploring other use cases on Celo. A list of current projects is available on https://climatecollective.org/.
+
+The Celo Foundation will commit $10M of CELO in Uniswap-specific user incentives & grants on Celo. In addition to the $10M in financial incentives for Uniswap specifically, the Celo Foundation will also focus on broader adoption of natural capital backed currencies and link this to ongoing efforts to making DeFi and crypto more accessible to the 6B smartphone users around the world through the following:
+
+* Promote the development of a mobile-first ecosystem through developer programs such as hackathons with Uniswap as a financial building block
+
+* Lead pilots and users research to help make Uniswap more accessible, especially in markets that lack access to basic financial tools and services.
+* Co-grant program to support projects that are launching and driving the growth of “green assets”
+
+We propose a transparent measurement of this project's success through the following success criteria and long-term goals:
+
+* % of Celo Reserve allocated to green assets: 40% of the Celo Reserve (at current Celo Reserve levels this would correspond to $200M USD in green assets)
+* $ total TVL and TVL of associated green assets: 10x of Celo Reserve green asset holdings in circulation as LP
+* Impact of green assets in Celo Reserve: 17M tons of CO2 avoided or removed from the atmosphere (assuming an average price of $12 per ton and current Celo Reserve levels) , including all associated benefits (e.g. increase in biodiversity through protection of forests). This corresponds roughly to the annual absorption capacity of 1.7M hectares of forest area, or roughly the amount of [forest area lost in Brazil in 2020](https://www.globalforestwatch.org/blog/data-and-research/global-tree-cover-loss-data-2020/).
+
+### Conclusion
+
+Celo and Uniswap together can serve as the foundation for the proliferation of natural capital assets across Web3. We believe that the vision to advance climate and regenerative finance on Celo aligns with the Uniswap community. Thank you for your consideration and we welcome questions and suggestions. ",1646927634,1647186834,"closed",914,"Yes;No","final","12221585.7151854;602.75393618","uniswap"
+"0xa5b0e54358d8a0bff4b90461873cd4bec83e57d7b87f2e18b9a4ff81539b21ca","QmVT76Vy6EYX2x1Ne448eXZkmUCd7FYGMFfojMao614XE9","0x13BDaE8c5F0fC40231F0E6A4ad70196F59138548",1647303538,"1","single-choice","[Consensus Check] Should we deploy Uniswap V3 on Celo?","### Summary:
+
+Dear Uniswap community,
+
+About a week ago we (the Blockchain at Michigan in partnership with the [Celo Foundation](https://celo.org/) and the [Celo Climate Collective](https://climatecollective.org/)) submitted a proposal to deploy Uniswap V3 on Celo to launch “Green Asset” Liquidity Pools and expand access to Uniswap to the 6B smartphone users around the world.
+
+We initiated the [Temperature Check](https://snapshot.org/#/uniswap/proposal/0x4fdc5d5c87669d3c99072541e1c775f8dee9b906241b2ce22203737b608c8e55) on Snapshot, where the proposal received strong support from the Uniswap community. 12M UNI (~100%) voted yes for the proposal.
+
+We’re excited to initiate the Consensus Check phase. We’d love to receive your support in this proposal.
+
+NOTE: Based on community feedback we’re also adding the following items to provide more information on a few items:
+
+* Approximately one-third of the $10M of financial incentives to Uniswap users for green asset pools will be placed in a multisig with the Celo Foundation and 2-4 key members of the Uniswap community, including both individuals and institutions. This is to serve as a good faith deposit and demonstrate the Celo Foundation’s commitment to the Uniswap community, while also ensuring financial flexibility for the Celo Foundation. In the past, the Celo Foundation has ensured that promised rewards have been paid out (e.g. Sushi) and the plan is to continue doing so.
+* Uniswap V3 will be deployed on Celo by the Celo community through the “[Deploy Uniswap V3 Script](https://github.com/Uniswap/deploy-v3#deploy-uniswap-v3-script).” contingent upon approval by the Uniswap community via an Additional Use Grant (license change enacted via the ENS domain uniswap.eth).
+* Governance at deployment will be facilitated by messaging bridge [Optics](https://docs.celo.org/celo-codebase/protocol/optics)
+* Robert Leifke and Kyle Scott, members of Blockchain at Michigan, are co-founders of Mobius, a Celo stableswap protocol. To avoid any conflicts of interest, they have had no involvement in this partnership between Blockchain at Michigan and the Celo Foundation.
+
+[Temperature check discussion](https://gov.uniswap.org/t/temperature-check-uniswap-x-celo-green-pool-for-treasury-proposal/16428/4)
+
+### Updated Proposal discussion Topic:
+
+Deploy Uniswap V3 on Celo to Launch “Green Asset” Liquidity Pools and expand access to Uniswap to the 6B smartphone users around the world
+
+### Description:
+
+In partnership with the Celo Foundation and the [Celo Climate Collective](https://climatecollective.org/), we propose to authorize the deployment of the Uniswap protocol to Celo on behalf of the community.
+
+Celo is a mobile-first, carbon-negative, EVM-compatible blockchain. Specifically, we propose launching Uniswap on the Celo platform to:
+
+* Increase Uniswap’s influence through $10M in financial incentives to Uniswap users, as well as additional grant funding provided by the Celo Foundation to utilize Uniswap as a financial building block
+* Bring Uniswap V3’s increased capital efficiency to the 6B smartphone users around the world
+* Create green asset liquidity pools with natural capital backed assets such as tokenized carbon credits (e.g. MCO2 and TCO2) and future nature backed assets issued on Celo like land and forests
+* Use Uniswap as a decentralized mechanism to rebalance the Celo Reserve with nature backed assets rather than relying on centralized exchanges
+* Foster pathways for future green use cases on Uniswap
+
+Overall, we believe the Uniswap community’s mission of creating a trustless and decentralized financial infrastructure accessible to anyone aligns with Celo’s vision of tackling climate change and achieving prosperity for all.
+
+### About Celo:
+
+Celo’s mission is to build an open financial system that creates the conditions of prosperity for all. To execute this mission, Celo’s technology features include:
+
+* A mobile-first EVM-compatible layer 1 blockchain that is accessible to anyone with a smartphone
+* Carbon negative by allocating 0.1% of epoch rewards to offset carbon—to date, [2,942](https://www.wren.co/profile/celo) tons of carbon has been offset, [which is over 8 times Celo’s carbon footprint](https://medium.com/celoorg/a-carbon-negative-blockchain-its-here-and-it-s-celo-60228de36490)
+* Algorithmic Celo stablecoins (currently cUSD, cEUR, and cREAL) with a smart-contract based expansion and contraction platform called Mento
+* An overcollateralized basket of crypto assets called the [Celo reserve](https://celoreserve.org/), currently made up of CELO, the network’s native asset, as well as BTC, ETH, DAI, and MCO2
+
+Celo is one of the fastest growing DeFi ecosystems with 2.6[M addresses, up to 1.1M daily transactions, and over 103M transactions](https://thecelo.com/). Additionally, Celo [has been chosen by Kickstarter](https://www.coindesk.com/business/2021/12/08/kickstarter-to-start-blockchain-based-crowdfunding-project-report/) for its upcoming decentralized product (to date, Kickstarter has successfully supported over[ 214,000 projects with over $6B in funding and 20M backers](https://www.kickstarter.com/help/stats)) which will attract new users to the ecosystem
+
+The Celo Reserve includes almost $1M of MCO2 tokens, and Celo community members have proposed to add more natural capital assets moving forward as part of the [Climate Collective](https://climatecollective.org/). By including more natural capital assets, the Celo community has the vision of creating natural capital backed currencies. If, as a society, we were to denominate our economic activity in natural capital backed currencies, any economic growth—increase in money circulation—would lead to a growth in preserved natural resources. Celo aims to be the layer 1 blockchain for natural capital assets, and Uniswap can be the natural capital DEX for these assets on Celo.
+
+### Proposal
+
+Blockchain technology can help address limit greenhouse gas emissions and promote sustainable practices by tokenizing carbon-sequestering assets such as rainforests. Those tokenized assets can then be purchased by individuals and businesses to democratize carbon offsetting and increase funding for environmental protection projects. We believe that together, Uniswap and Celo can lead the path to growing natural capital assets.
+
+Uniswap on the Celo platform will:
+
+* Allow for the launch of green asset liquidity pools: With the launch of the [Climate Collective](https://climatecollective.org/), Celo community members proposed to allocate up to 40% of the reserve over time towards natural capital backed assets. A natural capital backed asset (also known as “green” or “regenerative finance” asset) is a tokenized representation of natural assets in the “real” world. An example of a green asset is a non-fungible carbon-negative initiative quantified in terms of fungible CO2 sequestered (e.g. tokenized carbon credits).
+* Advance the use of natural capital backed currencies: The Celo Reserve grows as demand for Celo stable currencies grows. And as the reserve grows, so does the allocation towards green assets. This creates a feedback mechanism: with increased adoption of Celo stable currencies the reserve programmatically generates demand for additional green assets, preserving rainforests, and other carbon-sequestering assets.
+* Use Uniswap as a decentralized mechanism to rebalance the reserve: The Celo reserve will not only need to rebalance its BTC, ETH, etc. holdings but also a variety of natural capital backed assets, such as tokenized land, forests, and carbon credits. If approved by Celo’s community governance, a 40% allocation at current reserve values would correspond to natural capital assets worth 200M USD held by the reserve alone, requiring an efficient and liquid trading counterpart. Currently, the reserve rebalances via centralized exchanges. Green assets are not held by centralized exchanges, and so a decentralized exchange is needed in order to rebalance the Celo reserve as demand for stable currencies increases.
+* Increase capital efficiency: Uniswap v3’s concentrated liquidity mechanism will be especially important for Celo’s stablecoins that trade within a small price range.
+* Create pathways for future green use cases: Market participants are actively exploring other use cases on Celo. A list of current projects is available on https://climatecollective.org/.
+
+The Celo Foundation will commit $10M of CELO in Uniswap-specific user incentives & grants on Celo. The Celo Foundation has successfully delivered committed rewards in the past (e.g. Sushi) and intends to do so in this instance as well. As a good faith deposit, approximately one-third of the $10M of financial incentives to Uniswap users for green asset pools will be placed in a multisig with the Celo Foundation and 2-4 key members of the Uniswap community, including both individuals and institutions. The $10M of financial incentives to Uniswap users for green asset pools will be placed in a multisig with the Celo Foundation and 2-4 key and active members of the Uniswap community including both individuals and institutions. In addition to the $10M in financial incentives for Uniswap specifically, the Celo Foundation will also focus on broader adoption of natural capital backed currencies and link this to ongoing efforts to making DeFi and crypto more accessible to the 6B smartphone users around the world through the following:
+
+* Promote the development of a mobile-first ecosystem through developer programs such as hackathons with Uniswap as a financial building block
+
+* Lead pilots and users research to help make Uniswap more accessible, especially in markets that lack access to basic financial tools and services.
+* Co-grant program to support projects that are launching and driving the growth of “green assets”
+
+Uniswap V3 will be deployed on Celo by cLabs through the “[Deploy Uniswap V3 Script](https://github.com/Uniswap/deploy-v3#deploy-uniswap-v3-script).” contingent upon approval by the Uniswap community via an Additional Use Grant (license change enacted via the ENS domain uniswap.eth). Governance at deployment will be facilitated by the messaging bridge [Optics](https://docs.celo.org/celo-codebase/protocol/optics).
+
+We propose a transparent measurement of this project's success through the following success criteria and long-term goals:
+
+* % of Celo Reserve allocated to green assets: 40% of the Celo Reserve (at current Celo Reserve levels this would correspond to $200M USD in green assets)
+* $ total TVL and TVL of associated green assets: 10x of Celo Reserve green asset holdings in circulation as LP
+* Impact of green assets in Celo Reserve: 17M tons of CO2 avoided or removed from the atmosphere (assuming an average price of $12 per ton and current Celo Reserve levels) , including all associated benefits (e.g. increase in biodiversity through protection of forests). This corresponds roughly to the annual absorption capacity of 1.7M hectares of forest area, or roughly the amount of [forest area lost in Brazil in 2020](https://www.globalforestwatch.org/blog/data-and-research/global-tree-cover-loss-data-2020/).
+
+### Conclusion
+
+Celo and Uniswap together can serve as the foundation for the proliferation of natural capital assets across Web3. We believe that the vision to advance climate and regenerative finance on Celo aligns with the Uniswap community. Thank you for your consideration and we welcome questions and suggestions.
+
+[Temperature check discussion](https://gov.uniswap.org/t/temperature-check-uniswap-x-celo-green-pool-for-treasury-proposal/16428/4)
+[Temperature check snapshot](https://snapshot.org/#/uniswap/proposal/0x4fdc5d5c87669d3c99072541e1c775f8dee9b906241b2ce22203737b608c8e55)",1647304200,1647736200,"closed",1391,"Yes;No","final","7511223.79762866;8262.06978909871","uniswap"
+"QmWhemJom3RZdH91rBPmjvAFZEr9HdFRSFVNtAae6kgbyE","QmWhemJom3RZdH91rBPmjvAFZEr9HdFRSFVNtAae6kgbyE","0xa6e8772af29b29B9202a073f8E36f447689BEef6",1647639669,"1","single-choice","Temp Check - Should Uniswap add the 1bp fee tier to Polygon?","
+# Summary
+
+To date, Uniswap has four deployments: Ethereum, Abritrum, Optimism, and Polygon. In addition to these deployments, there are proposals to deploy Uniswap on Harmony, Celo, and more chains expected soon. The protocol should continue to deploy to new markets, but as the protocol continues to grow, it is vital the protocol learns to manage each of the deployments. With each new chain, there is new infrastructure that needs to be adapted to so that UNI on Ethereum can govern all of these deployments.
+
+GFX Labs has been researching the various deployments and has prepared the first Uniswap cross-chain proposal to demonstrate how mainnet UNI can manage deployments on other chains.
+
+Polygon has a messaging mechanism between Ethereum and Polygon called the [Fx-Portal](https://docs.polygon.technology/docs/develop/l1-l2-communication/fx-portal/). The portal functions via three contracts: FxRoot, State Sender, & FxChild. Messages can be sent from Ethereum to Polygon by calling the sendMessageToChild(address, bytes) at the FxRoot contract on Ethereum, which calls the State Sender contract. The [validators](https://docs.polygon.technology/docs/validate/polygon-basics/who-is-validator/) monitor the State Sender contract and relay messages to the FxChild on Polygon. Upon successful relay to the FxChild, the message is executed on Polygon by the validators.
+
+The owner of the Uniswap v3 contracts on Polygon is the [Ethereum Proxy contract](https://polygonscan.com/address/0x8a1b966ac46f42275860f905dbc75efbfdc12374#code). The proxy contract will only process transactions that originate from the [Timelock contract](https://etherscan.io/address/0x1a9c8182c09f50c8318d769245bea52c32be35bc#code) on Ethereum and are delivered by the [FxChild](https://polygonscan.com/address/0x8397259c983751daf40400790063935a11afa28a). Every governance proposal targeting a change on Polygon should set the [FxRoot](https://etherscan.io/address/0xfe5e5d361b2ad62c541bab87c45a0b9b018389a2#code) on Ethereum as the target and send the message (parameter change) via the contract. The message passed through the FxRoot must contain the target(s) contract on Polygon, the function(s) to call, the call data(s), similar to the proposal system.
+
+For the pilot of cross-chain governance, we are implementing the 1 basis point/1 tick fee tier on Polygon. The 1bp pools on Ethereum have been incredibly successful and increased Uniswap’s market share significantly since GFX Labs’ successful proposal in November 2021.
+
+[![|624x281](https://lh5.googleusercontent.com/nkHPN-akEVdPkIr3P7Tya8wvZMBftJryqVfsnwKaSp5mowgmcCq_aYEPkvKdIW8I20tPa6clkSUrCA78yTtebtf6iYfsgqHYt9x1Fg4lZaRhCgkvO2rbszg2wB1aJsWcIxLgHbLU)](https://dune.xyz/queries/150801)
+
+Because governance has already approved it on Ethereum, the content of this proposal should not be controversial and puts the focus on the research and implementation.
+
+# Proposal
+
+GFX Labs has already tested the governance proposal on Goerli & Mumbai.
+
+To build the proposal–[Uniswap Governor Alpha](https://goerli.etherscan.io/address/0x5e4be8bc9637f0eaa1a755019e06a68ce081d58f#writeContract): propose()
+
+1. Targets: [[FxRoot Contract](https://goerli.etherscan.io/address/0x3d1d3e34f7fb6d26245e6640e1c50710efff15ba#writeContract)]
+2. Values: [0]
+3. Signatures: [“”]
+4. Call data: [Call data to be processed by the FxRoot]
+
+  1. Data is from the sendMessageToChild(_receiver (address), _data (bytes))
+
+    _receiver (address) is the [EthereumProxy contract](https://mumbai.polygonscan.com/address/0x8a1b966ac46f42275860f905dbc75efbfdc12374#code) which is the owner of the [Uniswap Factory contract on Polyon](https://mumbai.polygonscan.com/address/0x1f98431c8ad98523631ae4a59f267346ea31f984).
+    _data (bytes) is an encoded message where the abi is address[] targets, bytes[] datas, uint256[] values
+
+      1. Targets: [[Uniswap Factory contract on Polygon](https://mumbai.polygonscan.com/address/0x1f98431c8ad98523631ae4a59f267346ea31f984)]
+      2. Datas: [Uniswap Factory contract–enableFeeAmount(100,1)]
+      3. Values: [0]
+
+5. Description: “1bp polygon test”
+
+# Successful test
+
+1. [Proposal](https://goerli.etherscan.io/tx/0xa201faffc23069f80dca9c8956eec9a8091b896454468b9c3ea9b44dbd436370#eventlog)
+2. [Vote](https://goerli.etherscan.io/tx/0x4e53072c73ddd09000304235bb8201b7ed7e866c7d7e5b2fa8c4c95ad4ac09df#eventlog)
+3. [Queue](https://goerli.etherscan.io/tx/0xa24ec65a9f333566b27d23bf962a9de55026e5a131940461a2a9a668ce90a062#eventlog)
+4. [Execute (Mainnet)](https://goerli.etherscan.io/tx/0x2bd39e01e411bcea42c9f439f9b6671bfe15fecf73961e564828f5979d722c92#eventlog)
+5. [Executed (Polyon)](https://mumbai.polygonscan.com/tx/0xa822e4df25425aa30dc061b80eb9728ca09e23f254c983ce3e127a0a44e0b7ae#eventlog)
+
+Temperature Check Snapshot: 3/18/2022-3/20/2022
+Consensus Check Snapshot: 3/20/2022-3/25/2022
+
+Governance Proposal ETA: 3/28/2022",1647639463,1647900000,"closed",1031,"Yes;No","final","8930622.30712305;403.3","uniswap"
+"QmZ2D27uouvVEHGuRvydwmwepgL2PEXbGzYAXqYr9bMwLo","QmZ2D27uouvVEHGuRvydwmwepgL2PEXbGzYAXqYr9bMwLo","0xa6e8772af29b29B9202a073f8E36f447689BEef6",1647900796,"1","single-choice","Consensus Check - Should Uniswap add the 1bp fee tier to Polygon?","# Summary
+
+To date, Uniswap has four deployments: Ethereum, Abritrum, Optimism, and Polygon. In addition to these deployments, there are proposals to deploy Uniswap on Harmony, Celo, and more chains expected soon. The protocol should continue to deploy to new markets, but as the protocol continues to grow, it is vital the protocol learns to manage each of the deployments. With each new chain, there is new infrastructure that needs to be adapted to so that UNI on Ethereum can govern all of these deployments.
+
+GFX Labs has been researching the various deployments and has prepared the first Uniswap cross-chain proposal to demonstrate how mainnet UNI can manage deployments on other chains.
+
+Polygon has a messaging mechanism between Ethereum and Polygon called the [Fx-Portal](https://docs.polygon.technology/docs/develop/l1-l2-communication/fx-portal/). The portal functions via three contracts: FxRoot, State Sender, & FxChild. Messages can be sent from Ethereum to Polygon by calling the sendMessageToChild(address, bytes) at the FxRoot contract on Ethereum, which calls the State Sender contract. The [validators](https://docs.polygon.technology/docs/validate/polygon-basics/who-is-validator/) monitor the State Sender contract and relay messages to the FxChild on Polygon. Upon successful relay to the FxChild, the message is executed on Polygon by the validators.
+
+The owner of the Uniswap v3 contracts on Polygon is the [Ethereum Proxy contract](https://polygonscan.com/address/0x8a1b966ac46f42275860f905dbc75efbfdc12374#code). The proxy contract will only process transactions that originate from the [Timelock contract](https://etherscan.io/address/0x1a9c8182c09f50c8318d769245bea52c32be35bc#code) on Ethereum and are delivered by the [FxChild](https://polygonscan.com/address/0x8397259c983751daf40400790063935a11afa28a). Every governance proposal targeting a change on Polygon should set the [FxRoot](https://etherscan.io/address/0xfe5e5d361b2ad62c541bab87c45a0b9b018389a2#code) on Ethereum as the target and send the message (parameter change) via the contract. The message passed through the FxRoot must contain the target(s) contract on Polygon, the function(s) to call, the call data(s), similar to the proposal system.
+
+For the pilot of cross-chain governance, we are implementing the 1 basis point/1 tick fee tier on Polygon. The 1bp pools on Ethereum have been incredibly successful and increased Uniswap’s market share significantly since GFX Labs’ successful proposal in November 2021.
+
+[![|624x281](https://lh5.googleusercontent.com/nkHPN-akEVdPkIr3P7Tya8wvZMBftJryqVfsnwKaSp5mowgmcCq_aYEPkvKdIW8I20tPa6clkSUrCA78yTtebtf6iYfsgqHYt9x1Fg4lZaRhCgkvO2rbszg2wB1aJsWcIxLgHbLU)](https://dune.xyz/queries/150801)
+
+Because governance has already approved it on Ethereum, the content of this proposal should not be controversial and puts the focus on the research and implementation.
+
+# Proposal
+
+GFX Labs has already tested the governance proposal on Goerli & Mumbai.
+
+To build the proposal–[Uniswap Governor Alpha](https://goerli.etherscan.io/address/0x5e4be8bc9637f0eaa1a755019e06a68ce081d58f#writeContract): propose()
+
+1. Targets: [[FxRoot Contract](https://goerli.etherscan.io/address/0x3d1d3e34f7fb6d26245e6640e1c50710efff15ba#writeContract)]
+2. Values: [0]
+3. Signatures: [“”]
+4. Call data: [Call data to be processed by the FxRoot]. The data is from the sendMessageToChild(_receiver (address), _data (bytes))
+
+```
+    _receiver (address) is the [EthereumProxy contract](https://mumbai.polygonscan.com/address/0x8a1b966ac46f42275860f905dbc75efbfdc12374#code) which is the owner of the [Uniswap Factory contract on Polyon](https://mumbai.polygonscan.com/address/0x1f98431c8ad98523631ae4a59f267346ea31f984).
+    _data (bytes) is an encoded message where the abi is address[] targets, bytes[] datas, uint256[] values
+
+      1. Targets: [[Uniswap Factory contract on Polygon](https://mumbai.polygonscan.com/address/0x1f98431c8ad98523631ae4a59f267346ea31f984)]
+      2. Datas: [Uniswap Factory contract–enableFeeAmount(100,1)]
+      3. Values: [0]
+```
+
+5. Description: “1bp polygon test”
+
+# Successful test
+
+1. [Proposal](https://goerli.etherscan.io/tx/0xa201faffc23069f80dca9c8956eec9a8091b896454468b9c3ea9b44dbd436370#eventlog)
+2. [Vote](https://goerli.etherscan.io/tx/0x4e53072c73ddd09000304235bb8201b7ed7e866c7d7e5b2fa8c4c95ad4ac09df#eventlog)
+3. [Queue](https://goerli.etherscan.io/tx/0xa24ec65a9f333566b27d23bf962a9de55026e5a131940461a2a9a668ce90a062#eventlog)
+4. [Execute (Mainnet)](https://goerli.etherscan.io/tx/0x2bd39e01e411bcea42c9f439f9b6671bfe15fecf73961e564828f5979d722c92#eventlog)
+5. [Executed (Polyon)](https://mumbai.polygonscan.com/tx/0xa822e4df25425aa30dc061b80eb9728ca09e23f254c983ce3e127a0a44e0b7ae#eventlog)
+
+[Temperature Check Snapshot](https://snapshot.org/#/uniswap/proposal/QmWhemJom3RZdH91rBPmjvAFZEr9HdFRSFVNtAae6kgbyE): 3/18/2022-3/21/2022
+Consensus Check Snapshot: 3/21/2022-3/26/2022
+
+Governance Proposal ETA: 3/28/2022",1647900720,1648332000,"closed",1338,"Yes;No","final","9030382.89824425;16.4716767071568","uniswap"
+"0xb328c7583c0f1ea85f8a273dd36977c95e47c3713744caf7143e68b65efcc8a5","QmR6MwhaybhERBd1w1UmL3BSNz5gJNoQNejiBhV9aLTSMs","0x6d9ABa400a2a487a5Fb76c6d56518835553CD284",1647955059,"1","single-choice","Temperature Check - Should Uniswap v3 be deployed to Gnosis Chain?","
+#### Deploy Uni V3 to Gnosis Chain
+
+In production since 2018 (as the xDai Chain), the rebranded Gnosis Chain is rapidly evolving with a new focus and mission. Gnosis Chain (GC) provides a real-world value chain that closely mirrors the Ethereum 2.0 ecosystem. This includes a beacon chain framework, rollups, and other vital functionality. GC will serve in a front-running capacity for important Ethereum 2.0 updates,
+
+Tuned parameters on the Gnosis Chain enable faster blocks and epochs, low-cost stable transactions, and the opportunity to construct trustless bridges and conduct seamless transfers between GC and the Ethereum 2.0 mainnet.
+
+The Gnosis Chain team is committed to ecosystem development, adoption, and growth as the Eth2.0 landscape comes into focus. With a mission to “accelerate Ethereum,” Gnosis Chain is poised for expansion. With this in mind, we propose a Uniswap v3 deployment to the Gnosis Chain. We believe there are many benefits for both Uniswap Labs and Uniswap users, some of which include:
+
+1. **A DeFi ecosystem primed for growth.** Once deployed, Uniswap would become a cornerstone DeFi engine for protocols using and interacting within the ecosystem. Perpetual Protocol is a flagship protocol on GC that relies on Uniswap v3. This deployment will enable Perpetual to continue to flourish on the Gnosis Chain. Additional bluechip deployments with growing TVL include Curve, Sushiswap, and Tornado, with many new and promising DeFi projects choosing Gnosis Chain as their homebase. A list of current projects is available at https://gnosischain.world/
+
+
+2. **An iterative environment.** Uniswap Labs can experiment with new functionality and front-run new features in a real-value environment (which differs from a test environment in that users behave differently with value on the line, token supply is limited, real adversaries exist, etc). Uniswap can spot and remediate any final potential issues stemming from important Ethereum updates prior to mainnet activation and take advantage of optimized slot and epoch times for faster iteration.
+
+
+3. **Tight Ethereum compatibility.** Tools, resources, projects, and protocols supported by Ethereum are already supported by the Gnosis Chain, with more onboarding regularly. Gnosis Safe is facilitating daily operations for many existing projects. A trustless bridge architecture designed to connect Ethereum and Gnosis Chain is in the works. The Gnosis Beacon Chain validator set is expanding rapidly bringing massive decentralization to the chain.
+
+The primary differences separating the GBC from the Ethereum Beacon chain include 5-second blocks and < 2-minute epochs, stable transactions with a max target of $.01 per 100K gas, an economically and geographically diverse validator set, and a lower-stakes, lower-TVL environment.
+
+
+Unique chain characteristics. Stable, low-cost transactions provide unique opportunities for Uniswap users. When gas costs are known and have a low impact on trade decisions, new strategies and approaches emerge which are currently untenable on the Ethereum mainnet or other chains with wide-ranging fee variability.
+
+
+User incentives. A large directive for the Gnosis Chain is to increase the user base and on-chain activity by strategically allocating funds from the GnosisDAO treasury to promote adoption. An ecosystem fund has been created for this purpose, and we propose to use a portion of these funds to promote Uniswap v3 on Gnosis Chain.  We propose providing up to $10M for a tailored liquidity mining program.
+The Gnosis Chain is preparing for substantial growth in the coming year. We have implemented an aggressive infrastructure grants program including large grants to Nethermind, Lighthouse and Erigon client teams to support base-layer functionality and security. The ecosystem fund will bring in many new projects, and we feel Uniswap v3 is an essential component that will serve as a foundational layer for this growth. 
+
+We welcome any questions and comments and are happy to provide any clarifications as needed. We are excited to submit this proposal to the Uniswap community and look forward to your feedback! Thank you.
+",1647954986,1648214186,"closed",909,"Yes;No","final","7015853.7472197;45.639921966685","uniswap"
+"QmaG6nJYW3xLeQwAa6xxhpbuYS8h6PVQpbx1vfqpqxAtik","QmaG6nJYW3xLeQwAa6xxhpbuYS8h6PVQpbx1vfqpqxAtik","0x7AE109A63ff4DC852e063a673b40BED85D22E585",1648682023,"1","single-choice","[Temperature Check] Deploy Uniswap V3 on Moonbeam","## Proposal Discussion Topic
+
+[Blockchain at Berkeley](https://blockchain.berkeley.edu) is creating this proposal in partnership with [Nomad](https://www.docs.nomad.xyz/) to Deploy Uniswap V3 on Moonbeam.
+
+## Summary
+
+In support of furthering the vision of [Multichain Uniswap](https://uniswap.org/blog/multichain-uniswap), we propose that the Uniswap community vote to authorize the deployment of Uniswap V3 to Moonbeam. We hope this proposal will serve as an example to create a generalizable, trust-minimized approach to cross-chain deployments, with the goal of supporting a multichain Uniswap ecosystem.
+
+Moonbeam is a Polkadot parachain which features EVM-compatibility, allowing it to serve as a port-of-entry for Ethereum-native apps to participate in the greater Polkadot ecosystem. Deploying on Moonbeam will expand the Uniswap community to include users of the Polkadot ecosystem, helping Uniswap on its journey to become a leading product in the multichain world.
+
+Moonbeam is a reputable chain which has enjoyed high stability and considerable activity since its launch in January, making it a great fit for Uniswap’s trusted brand.
+
+## About Moonbeam
+
+Moonbeam is an EVM-compatible smart contract parachain of the Polkadot network; it is optimized for cross-chain use cases and natively interoperable applications. EVM compatibility and a comprehensive tool suite of integrations like Etherscan, The Graph, Chainlink, and more, allow developers to deploy existing Solidity smart contracts and apps to Moonbeam with minimal changes. Moonbeam also extends the EVM with native cross-chain integrations powered by [Polkadot’s XCM](https://polkadot.network/blog/xcm-the-cross-consensus-message-format/), allowing Moonbeam apps to interact with assets and services from other chains in the Polkadot ecosystem in a trust-minimized way.
+
+Moonbeam was the first parachain to go live on the Polkadot network, launching on January 11 this year. Like Moonriver, its sister parachain on Kusama, Moonbeam is expected to accumulate developer and user activity from the [100+ projects](https://moonbeam.network/community/projects/) building DApps and protocols on the network.
+
+## Expanding Uniswap to Moonbeam
+
+We believe that the timing is perfect for Uniswap V3 to deploy on Moonbeam. 
+
+Uniswap has been deployed on Ethereum, Polygon, Arbitrum, and Optimism, giving it great coverage within Ethereum and its most popular L2s. However, Uniswap has not yet expanded beyond the greater Ethereum ecosystem.
+
+Unlike the other deployment targets, Moonbeam represents a much larger target market — Polkadot users. The growth potential of the Polkadot ecosystem is reflected in part by the fact that Polkadot consistently ranks in the top ecosystems for developer activity, despite having just enabled parachains auctions in December 2021. The Polkadot community has grown in parallel with the Ethereum community, and shares many of the same values — decentralization, censorship resistance, open access to finance, to name a few. However, the two communities have largely been discrete, and deploying Uniswap on Moonbeam brings them together in a meaningful way.
+
+Moonbeam is the de facto DeFi hub for Polkadot. Blue chip DeFi projects have deployed or committed to deploying to Moonbeam, including Sushiswap, Lido, Curve, Chainlink and Covalent. As the ecosystem develops, we believe that deploying Uniswap V3 will position it to become a premier AMM on Moonbeam, and, more broadly, a large liquidity hub for the entire Polkadot ecosystem. This represents a massive opportunity to capture this untapped market, which could mean significant fee revenue for LPs and UNI token holders.
+
+The Nomad team has worked on this proposal because [Nomad and Connext](https://medium.com/connext/connext-has-partnered-with-nomad-e20cd8e62e31) have already been deployed as Moonbeam’s main bridging solutions, and have begun to drive cross-chain liquidity from Ethereum into Moonbeam. By deploying Uniswap V3 on Moonbeam, Nomad would be able to route even more liquidity into Uniswap pools and additionally facilitate cross-chain communication for Uniswap governance.
+
+## Trust-Minimized Bridging and Cross-Chain Governance
+
+Decentralized cross-chain governance is a topic we are excited about working on within the Uniswap ecosystem. As Uniswap Labs highlighted in their post about [Multichain Uniswap](https://uniswap.org/blog/multichain-uniswap), it is important that new chains have a trust-minimized arbitrary message passing solution to facilitate secure, decentralized governance of a deployment of Uniswap. The Moonbeam community already uses [Nomad](https://docs.nomad.xyz/) and [Connext](https://www.connext.network/) to bridge ERC-20 tokens from Ethereum; despite Moonbeam having only been live for two months, $35M TVL is currently bridged to Moonbeam via Nomad, with over $250M in total volume since deployment. However, Nomad is more than just a protocol for token bridging; at its core, Nomad is a protocol for trust-minimized arbitrary message passing, and Uniswap V3 deployed on Moonbeam can leverage Nomad for governance.
+
+We have worked with developers at Uniswap Labs to research, understand, and document the current state of [cross-chain governance for Uniswap](https://docs.google.com/document/d/1CQWXCXdA5to7RKfVPozI8vEcw_QJrRQMP9HiQ8nbOu0/edit#heading=h.708hyjg41wlu) deployments. It became clear that, currently, cross-chain governance solutions have been patched together differently for all three of the chains that Uniswap is deployed on, leading to significant complexity and overhead for governance participants who wish to execute proposals governing deployments on other chains. This problem will multiply as Uniswap is deployed to more chains.
+
+Nomad can provide an out-of-the-box solution for this problem. Nomad’s own contracts are governed by a decentralized cross-chain [governance app](https://github.com/nomad-xyz/monorepo/blob/main/packages/contracts-core/contracts/governance/GovernanceRouter.sol) built on its arbitrary message passing rails. This application can be [tailored](https://github.com/nomad-xyz/monorepo/pull/95) for the purpose of governing Uniswap deployments on chains other than Ethereum mainnet. Rather than attempting to introduce this change on all chains at once, however, we can demonstrate the value of this solution in a de-risked manner by leveraging it first for a new deployment, Moonbeam.
+
+
+## Rewards and Grants
+
+As part of this proposal, Nomad, via a grant from the Moonbeam Foundation, will commit $2,500,000 to the Uniswap Grants Program to help grow the Multichain Uniswap ecosystem.
+
+Through collaborative discussions with members of the Uniswap community, we learned that there were likely higher-leverage ways to enrich the Uniswap community than just providing liquidity mining rewards. As Uniswap develops into a multi-chain ecosystem, we want to support developers working to create high-quality multichain apps building on-top of Uniswap, and better multichain experiences for Uniswap users. These grants will promote long-term protocol development, developer activity and innovation towards this goal.
+
+To borrow language from the [Uniswap Grants + Gitcoin](https://gitcoin.co/blog/case-study-uniswap-grants/#:~:text=Uniswap%20Grants%20gained%20access%20to,Gitcoin%20was%20founded%20in%202017) announcement, we hope for this initiative to fund “bounties, hackathons, and grants” for “developers, designers, community organizers and other web3 builders” working on multi-chain projects which improve, extend, promote or build upon Unsiwap in a cross-chain manner.
+
+
+Examples of projects that could be funded with this grant include: 
+- Building a cross-chain application which allows Uniswap LPs to close a position on Ethereum and open one atomically on Moonbeam
+- Improving open-source wallet softwares to create better multi-chain user experiences for Uniswap users
+- Building a frontend application which allows governance participants to more easily construct cross-chain governance proposals for Uniswap
+- Leveraging Substrate’s native interoperability protocol, XCM, to build an application which composes Uniswap on Moonbeam with another substrate chain
+Funding office hours to educate new users about multichain crypto experiences
+
+We are so excited to see what members of the Uniswap community come up with to leverage this grant!
+
+## Conclusion
+
+We are excited about the possibility of the Uniswap community entering the Polkadot ecosystem via a V3 deployment on Moonbeam. To reiterate, we feel that this is a fantastic opportunity for the following reasons:
+
+- **Expansion into Polkadot**: Uniswap will be able to tap into a brand new market and all the community members in the Polkadot ecosystem. Moonbeam’s EVM-compatibility makes it simple to deploy existing Solidity code, while simultaneously providing access to other parachains using XCM. By leveraging XCM and Moonbeam’s position as the DeFi hub for Polkadot, Uniswap has the opportunity to become the premier AMM across Polkadot. 
+- **Trust-minimized Governance**: Per Uniswap’s goal of becoming a multi-chain protocol while remaining trust-minimized, we propose using Nomad’s trust-minimized channels to deploy Uniswap V3 on Moonbeam. This can serve as an opportunity to test this improved decentralized governance application within a safe container, with the potential of rolling it out to other V3 deployments in the future.
+- **Rewards for Uniswap Grants Program**: Instead of simply offering liquidity mining incentives, we want to fund community members working to develop and enrich multichain experiences built with Uniswap. We will commit $2.5M to the Uniswap Grants Program to fund cross-chain development deployed within the Uniswap ecosystem, in order to further expand Uniswap’s multi-chain presence.
+
+We are excited to engage with the Uniswap community and governance process to discuss more around bringing Uniswap V3 to Moonbeam. Please let us know any and all feedback and criticism, so that we can improve this proposal and expand Uniswap into Moonbeam and Polkadot!",1648681895,1648941095,"closed",1301,"Yes;No","final","8326659.28334816;1016.11983221054","uniswap"
+"QmcVpxCSkL8rPmZgow8uL2GbdPZtUKS3huY9aSExKNfEK6","QmcVpxCSkL8rPmZgow8uL2GbdPZtUKS3huY9aSExKNfEK6","0x7AE109A63ff4DC852e063a673b40BED85D22E585",1649111346,"1","single-choice","[Consensus Check] Deploy Uniswap V3 on Moonbeam","## Proposal Topic
+
+[Blockchain at Berkeley](https://blockchain.berkeley.edu) is creating this proposal in partnership with [Nomad](https://www.docs.nomad.xyz/) to Deploy Uniswap V3 on Moonbeam.
+
+
+## Process Update
+
+The [Temperature Check](https://gov.uniswap.org/t/temperature-check-deploy-uniswap-v3-on-moonbeam/16572) for this proposal passed with 8.3M UNI voting Yes on the [Snapshot](https://snapshot.org/#/uniswap/proposal/QmaG6nJYW3xLeQwAa6xxhpbuYS8h6PVQpbx1vfqpqxAtik). We now move to the Consensus Check phase to collect further feedback in advance of an on-chain vote.
+
+## Summary
+
+In support of furthering the vision of [Multichain Uniswap](https://uniswap.org/blog/multichain-uniswap), we propose that the Uniswap community vote to authorize the deployment of Uniswap V3 to Moonbeam. We hope this proposal will serve as an example to create a generalizable, trust-minimized approach to cross-chain deployments, with the goal of supporting a multichain Uniswap ecosystem.
+
+Moonbeam is a Polkadot parachain which features EVM-compatibility, allowing it to serve as a port-of-entry for Ethereum-native apps to participate in the greater Polkadot ecosystem. Deploying on Moonbeam will expand the Uniswap community to include users of the Polkadot ecosystem, helping Uniswap on its journey to become a leading product in the multichain world.
+
+Moonbeam is a reputable chain which has enjoyed high stability and considerable activity since its launch in January, making it a great fit for Uniswap’s trusted brand.
+
+## About Moonbeam
+
+Moonbeam is an EVM-compatible smart contract parachain of the Polkadot network; it is optimized for cross-chain use cases and natively interoperable applications. EVM compatibility and a comprehensive tool suite of integrations like Etherscan, The Graph, Chainlink, and more, allow developers to deploy existing Solidity smart contracts and apps to Moonbeam with minimal changes. Moonbeam also extends the EVM with native cross-chain integrations powered by [Polkadot’s XCM](https://polkadot.network/blog/xcm-the-cross-consensus-message-format/), allowing Moonbeam apps to interact with assets and services from other chains in the Polkadot ecosystem in a trust-minimized way.
+
+Moonbeam was the first parachain to go live on the Polkadot network, launching on January 11 this year. Like Moonriver, its sister parachain on Kusama, Moonbeam is expected to accumulate developer and user activity from the [100+ projects](https://moonbeam.network/community/projects/) building DApps and protocols on the network.
+
+## Expanding Uniswap to Moonbeam
+
+We believe that the timing is perfect for Uniswap V3 to deploy on Moonbeam. 
+
+Uniswap has been deployed on Ethereum, Polygon, Arbitrum, and Optimism, giving it great coverage within Ethereum and its most popular L2s. However, Uniswap has not yet expanded beyond the greater Ethereum ecosystem.
+
+Unlike the other deployment targets, Moonbeam represents a much larger target market — Polkadot users. The growth potential of the Polkadot ecosystem is reflected in part by the fact that Polkadot consistently ranks in the top ecosystems for developer activity, despite having just enabled parachains auctions in December 2021. The Polkadot community has grown in parallel with the Ethereum community, and shares many of the same values — decentralization, censorship resistance, open access to finance, to name a few. However, the two communities have largely been discrete, and deploying Uniswap on Moonbeam brings them together in a meaningful way.
+
+Moonbeam is the de facto DeFi hub for Polkadot. Blue chip DeFi projects have deployed or committed to deploying to Moonbeam, including Sushiswap, Lido, Curve, Chainlink and Covalent. As the ecosystem develops, we believe that deploying Uniswap V3 will position it to become a premier AMM on Moonbeam, and, more broadly, a large liquidity hub for the entire Polkadot ecosystem. This represents a massive opportunity to capture this untapped market, which could mean significant fee revenue for LPs and UNI token holders.
+
+The Nomad team has worked on this proposal because [Nomad and Connext](https://medium.com/connext/connext-has-partnered-with-nomad-e20cd8e62e31) have already been deployed as Moonbeam’s main bridging solutions, and have begun to drive cross-chain liquidity from Ethereum into Moonbeam. By deploying Uniswap V3 on Moonbeam, Nomad would be able to route even more liquidity into Uniswap pools and additionally facilitate cross-chain communication for Uniswap governance.
+
+## Trust-Minimized Bridging and Cross-Chain Governance
+
+Decentralized cross-chain governance is a topic we are excited about working on within the Uniswap ecosystem. As Uniswap Labs highlighted in their post about [Multichain Uniswap](https://uniswap.org/blog/multichain-uniswap), it is important that new chains have a trust-minimized arbitrary message passing solution to facilitate secure, decentralized governance of a deployment of Uniswap. The Moonbeam community already uses [Nomad](https://docs.nomad.xyz/) and [Connext](https://www.connext.network/) to bridge ERC-20 tokens from Ethereum; despite Moonbeam having only been live for two months, $35M TVL is currently bridged to Moonbeam via Nomad, with over $250M in total volume since deployment. However, Nomad is more than just a protocol for token bridging; at its core, Nomad is a protocol for trust-minimized arbitrary message passing, and Uniswap V3 deployed on Moonbeam can leverage Nomad for governance.
+
+We have worked with developers at Uniswap Labs to research, understand, and document the current state of [cross-chain governance for Uniswap](https://docs.google.com/document/d/1CQWXCXdA5to7RKfVPozI8vEcw_QJrRQMP9HiQ8nbOu0/edit#heading=h.708hyjg41wlu) deployments. It became clear that, currently, cross-chain governance solutions have been patched together differently for all three of the chains that Uniswap is deployed on, leading to significant complexity and overhead for governance participants who wish to execute proposals governing deployments on other chains. This problem will multiply as Uniswap is deployed to more chains.
+
+Nomad can provide an out-of-the-box solution for this problem. Nomad’s own contracts are governed by a decentralized cross-chain [governance app](https://github.com/nomad-xyz/monorepo/blob/main/packages/contracts-core/contracts/governance/GovernanceRouter.sol) built on its arbitrary message passing rails. This application can be [tailored](https://github.com/nomad-xyz/monorepo/pull/95) for the purpose of governing Uniswap deployments on chains other than Ethereum mainnet. Rather than attempting to introduce this change on all chains at once, however, we can demonstrate the value of this solution in a de-risked manner by leveraging it first for a new deployment, Moonbeam.
+
+
+## Rewards and Grants
+
+As part of this proposal, Nomad, via a grant from the Moonbeam Foundation, will commit $2,500,000 to the Uniswap Grants Program to help grow the Multichain Uniswap ecosystem.
+
+Through collaborative discussions with members of the Uniswap community, we learned that there were likely higher-leverage ways to enrich the Uniswap community than just providing liquidity mining rewards. As Uniswap develops into a multi-chain ecosystem, we want to support developers working to create high-quality multichain apps building on-top of Uniswap, and better multichain experiences for Uniswap users. These grants will promote long-term protocol development, developer activity and innovation towards this goal.
+
+To borrow language from the [Uniswap Grants + Gitcoin](https://gitcoin.co/blog/case-study-uniswap-grants/#:~:text=Uniswap%20Grants%20gained%20access%20to,Gitcoin%20was%20founded%20in%202017) announcement, we hope for this initiative to fund “bounties, hackathons, and grants” for “developers, designers, community organizers and other web3 builders” working on multi-chain projects which improve, extend, promote or build upon Unsiwap in a cross-chain manner.
+
+
+Examples of projects that could be funded with this grant include: 
+- Building a cross-chain application which allows Uniswap LPs to close a position on Ethereum and open one atomically on Moonbeam
+- Improving open-source wallet softwares to create better multi-chain user experiences for Uniswap users
+- Building a frontend application which allows governance participants to more easily construct cross-chain governance proposals for Uniswap
+- Leveraging Substrate’s native interoperability protocol, XCM, to build an application which composes Uniswap on Moonbeam with another substrate chain
+Funding office hours to educate new users about multichain crypto experiences
+
+We are so excited to see what members of the Uniswap community come up with to leverage this grant!
+
+## Conclusion
+
+We are excited about the possibility of the Uniswap community entering the Polkadot ecosystem via a V3 deployment on Moonbeam. To reiterate, we feel that this is a fantastic opportunity for the following reasons:
+
+- **Expansion into Polkadot**: Uniswap will be able to tap into a brand new market and all the community members in the Polkadot ecosystem. Moonbeam’s EVM-compatibility makes it simple to deploy existing Solidity code, while simultaneously providing access to other parachains using XCM. By leveraging XCM and Moonbeam’s position as the DeFi hub for Polkadot, Uniswap has the opportunity to become the premier AMM across Polkadot. 
+- **Trust-minimized Governance**: Per Uniswap’s goal of becoming a multi-chain protocol while remaining trust-minimized, we propose using Nomad’s trust-minimized channels to deploy Uniswap V3 on Moonbeam. This can serve as an opportunity to test this improved decentralized governance application within a safe container, with the potential of rolling it out to other V3 deployments in the future.
+- **Rewards for Uniswap Grants Program**: Instead of simply offering liquidity mining incentives, we want to fund community members working to develop and enrich multichain experiences built with Uniswap. We will commit $2.5M to the Uniswap Grants Program to fund cross-chain development deployed within the Uniswap ecosystem, in order to further expand Uniswap’s multi-chain presence.
+
+We are excited to engage with the Uniswap community and governance process to discuss more around bringing Uniswap V3 to Moonbeam. Please let us know any and all feedback and criticism, so that we can improve this proposal and expand Uniswap into Moonbeam and Polkadot!",1649111339,1649370539,"closed",1477,"Yes;No","final","9636742.91585928;399.21","uniswap"
+"0x729c19f1cafab8ed884914549e147ef401532cf6680e340a1aa0c8cc65f35f09","Qmd6QTy3ioqZCadgfHwzmZsdLwUFzdotMoweFTriaLVFXZ","0x6d9ABa400a2a487a5Fb76c6d56518835553CD284",1649869455,"1","single-choice","[Consensus Check] Should Uniswap v3 be deployed to Gnosis Chain?","## Context
+
+After passing the [Temperature Check vote](https://snapshot.org/#/uniswap/proposal/0xb328c7583c0f1ea85f8a273dd36977c95e47c3713744caf7143e68b65efcc8a5) with 7M UNI voting in favor of deploying Uniswap v3 on Gnosis Chain (GC), we are creating this post to move forward into the Consensus Check stage.
+
+Comments on [the previous post](https://gov.uniswap.org/t/temperature-check-should-uniswap-v3-be-deployed-to-gnosis-chain/16513) expressed support for v3 deployment on GC, but also suggested more clarity on the following topics:
+
+* The team that will be deploying Uniswap v3 on GC
+* The bridge used to facilitate cross-chain governance for Uniswap v3 on GC
+* The details of liquidity incentives provided, including timelines and logistics for transferring funds
+
+We have updated this post accordingly and provided more details on each of these items.
+
+## About Gnosis Chain
+
+In production since 2018 (as the xDai Chain), the rebranded [Gnosis Chain](https://www.gnosischain.com/) is rapidly evolving with a new focus and mission. Gnosis Chain (GC) provides a real-world value chain that closely mirrors the Ethereum 2.0 ecosystem. This includes a beacon chain framework, rollups, and other vital functionality. GC will serve in a front-running capacity for important Ethereum 2.0 updates.
+
+Tuned parameters on Gnosis Chain enable faster blocks and epochs, low-cost stable transactions, and the opportunity to construct trustless bridges and conduct seamless transfers between GC and the Ethereum 2.0 mainnet.
+
+## Proposal
+
+The Gnosis Chain team is committed to ecosystem development, adoption, and growth as the Eth2.0 landscape comes into focus. With a mission to “accelerate Ethereum,” Gnosis Chain is poised for expansion. With this in mind, we propose a Uniswap v3 deployment to Gnosis Chain. We believe there are many benefits for both Uniswap Labs and Uniswap users, some of which include:
+
+1. A DeFi ecosystem primed for growth. Once deployed, Uniswap would become a cornerstone DeFi engine for protocols using and interacting within the ecosystem. Perpetual Protocol is a flagship protocol on GC that relies on Uniswap v3. This deployment will enable Perpetual to continue to flourish on the Gnosis Chain. Additional bluechip app deployments with growing TVL include Curve, Sushiswap, and Tornado Cash, with many new and promising DeFi projects choosing Gnosis Chain as their home base. A list of current projects is available at [https://gnosischain.world/
+](https://gnosischain.world/)
+2. An iterative environment. Uniswap Labs can experiment with new functionality and alpha test new features in a real-value environment (which differs from a test environment in that users behave differently with value on the line, token supply is limited, real adversaries exist, etc). Uniswap can spot and remediate any final potential issues stemming from important Ethereum updates prior to mainnet activation and take advantage of optimized slot and epoch times for faster iteration.
+
+3. Tight Ethereum compatibility. Tools, resources, projects, and protocols supported by Ethereum are already supported on Gnosis Chain, with more onboarding regularly. Gnosis Safe is facilitating daily operations for many existing projects. [A trustless bridge architecture designed to connect Ethereum and Gnosis Chain is in the works](https://hackmd.io/g8TK7IzYQjClTTaor-ypIQ). The [Gnosis Beacon Chain validator set](https://beacon.gnosischain.com/) is expanding rapidly bringing massive decentralization to the chain.
+The primary differences separating the GBC from the Ethereum Beacon chain include 5-second blocks and < 2-minute epochs, stable transactions with a max target of $.01 per 100K gas, and an economically and geographically diverse validator set, and a lower-stakes, lower-TVL environment.
+
+4. Unique chain characteristics. Stable, low-cost transactions provide unique opportunities for Uniswap users. When gas costs are known and have a low impact on trade decisions, new strategies and approaches emerge which are currently untenable on the Ethereum mainnet or other chains with wide-ranging fee variability.
+
+5. User incentives. A large directive for the Gnosis Chain is to increase the user base and on-chain activity by strategically allocating funds from the GnosisDAO treasury to promote adoption. An ecosystem fund has been created for this purpose, and we propose to use a portion of these funds to promote Uniswap v3 on Gnosis Chain. We propose providing up to $10M to incentivize the adoption of Uniswap v3 on Gnosis Chain.
+
+## Details for incentivized Adoption of Uniswap v3
+
+The $10M will be provided in GNO to foster the usage of Uniswap v3 on Gnosis Chain. The incentives should be designed together with other projects, which are operating on top of Uniswap v3 such as Perpetual Protocol, Gelato, or Stakewise. This should allow for more sustainable utilization of Uniswap as Gnosis Chain doesn’t have a team dedicated to Uniswap v3. The GNO can be used to incentivize liquidity but should not be limited to this use case. Anything increasing usage of Uniswap v3, including building new applications on top of Uniswap v3 should be supported. The goal is to spend the $10M in the time period of 2 years. Funds not used after two years would go back to GnosisDAO. The spending is limited to $10M and the transferred amount of GNO as part of the proposal. GnosisDAO can decide to top up this amount based on the outcome of this initiative.
+
+## Cross-Chain Governance with Nomad
+
+Since the Temperature Check, we have discussed with stakeholders within the Uniswap ecosystem, who have expressed a desire to see trust-minimized bridges used for governance for new Uniswap v3 deployments. In addition, we’ve also seen the [Nomad](http://nomad.xyz) team’s proposal to [deploy v3 on Moonbeam](https://gov.uniswap.org/t/consensus-check-deploy-uniswap-v3-to-moonbeam/16624), which includes a section addressing this, as well as documenting the current fragmented approach to governance across various v3 deployments.
+
+In the interest of taking a standardized approach to cross-chain governance of v3 deployments moving forward, we’ve partnered with the Nomad team to leverage the Nomad generalized message passing channels to manage the governance of the Uniswap v3 deployment on Gnosis Chain.
+
+We believe that Nomad is the best solution for cross-chain governance, as it:
+
+* [Supports generalized messages](https://docs.nomad.xyz/) between chains
+* Does not rely on a multi-sig or validator set, but rather leverages an optimistic mechanism that allows bad messages to be challenged via fraud proofs
+
+Nomad will be deployed on Gnosis Chain shortly and will leverage [Gnosis Zodiac Modules](https://github.com/gnosis/zodiac) as part of its governance stack.
+
+We are excited about partnering with Nomad to create a trust-minimized governance stack that can offer a standard for the Uniswap ecosystem.
+
+## License Exemption
+
+We are requesting an exemption that will allow Gnosis Ltd. to use the Licensed Work to deploy it on Gnosis Chain, a layer 1 blockchain with deep connections to Ethereum, provided that the deployment is subject to Ethereum layer 1 Uniswap Protocol governance and control.
+
+## Timeline
+
+Following the Consensus Check phase, we will submit this proposal shortly after to an on-chain vote. Provided that the proposal passes both steps, and all governance systems have been built and audited, we will be ready to move forward with the Uniswap v3 deployment on Gnosis Chain.
+
+## Proposal Acceptance and Execution
+
+As the proposal funding has to come from GnosisDAO, this proposal has to be accepted by both: UNI and GNO token holders. The execution of this proposal is dependent also on the acceptance of the proposal by GnosisDAO. The GnosisDAO proposal has to include the setup of the multi-sig and the allocation of GNO and would be executed once it is accepted by GNO token holders. Two singers from the Uniswap community and two singers from the GnosisDAO community should be selected to participate in the multisig wallet.
+
+## Conclusion
+
+The Gnosis Chain is preparing for substantial growth in the coming year. We have implemented an aggressive infrastructure grants program including large grants to Nethermind, Lighthouse and Erigon client teams to support base-layer functionality and security. The [ecosystem fund](https://forum.gnosis.io/t/gip-16-gnosis-chain-xdai-gnosis-merge/1904) will bring in many new projects, and we feel Uniswap v3 is an essential component that will serve as a foundational layer for this growth.
+
+We welcome any questions and comments and are happy to provide any clarifications as needed. We are excited to submit this proposal to the Uniswap community and look forward to your feedback! Thank you.",1649869355,1650279600,"closed",1697,"Yes;No","final","13934451.5777168;10.7331004081908","uniswap"
+"0x7f196c3444623a33ac147d1676d84e45d3c4c56a94baa85547b77d6fab82faab","QmdiwivSGAUN5k2FefTH5JcUDfa2sqga3ezXymNrHe58fE","0x4C0a466DF0628FE8699051b3Ac6506653191cc21",1654183760,"1","single-choice","[Temperature Check] Should the Uniswap community participate in the Protocol Guild Pilot?","Authors: [Trent](https://twitter.com/trent_vanepps) (PG Member), [Tim](https://twitter.com/TimBeiko) (PG Member)
+
+### Abstract
+
+This is a proposal for the Uniswap community to support important Ethereum Public Goods through the Protocol Guild: a vested split contract which goes to 110 core protocol contributors.
+
+We propose that 500k UNI (~$2.5mm @ $5.19 UNI) be allocated to support the ongoing work of these core contributors in the initial Protocol Guild Pilot.
+
+Participating in the 1 year Pilot allows guild members to engage with Uniswap in a way that is values- and incentive-aligned. Simultaneously, it will allow them to continue the important work of scaling our shared infrastructure and making it as resilient as possible for the applications on top of it.
+
+### Useful links
+
+* [Protocol Guild Docs](https://protocol-guild.readthedocs.io/en/latest/index.html#)
+* [1 Year Vesting Contract](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/)
+* [Initial Announcement - Dec 2021](https://stateful.mirror.xyz/mEDvFXGCKdDhR-N320KRtsq60Y2OPk8rHcHBCFVryXY)
+* [List of Members](https://protocol-guild.readthedocs.io/en/latest/9-membership.html)
+* [PG twitter account](https://twitter.com/ProtocolGuild)
+
+### Context
+
+1. As a credibly neutral, maximally uncapturable infrastructure with no block reward, the Ethereum base protocol doesn’t offer the same token incentives to contributors as applications or L2s can. However, the protocol still needs to attract and retain talent to continue to evolve. As the broader ecosystem continues to grow, competition for talented individuals will only increase. This isn’t to fault individuals for rationally weighting financial incentives, or protocols for leveraging the power of tokens - this is just the reality of the current context. We also acknowledge that financial motivations aren’t the only or best motivator for people, it’s just one tool in our toolset that is currently underleveraged.
+2. Existing public goods funding solutions tend to be either too narrow or broad in scope, fail to exclusively target core protocol contributors, or depend on an intermediating institution, which often leads to organizations, and not individuals, being recipients of funds.
+3. The Protocol benefits from contributor continuity. Transferring institutional knowledge between cohorts is more likely to happen successfully the more overlap there is.
+
+Here’s a longer exploration of the [project rationale](https://protocol-guild.readthedocs.io/en/latest/1-proposal-rationale.html).
+
+If we believe what we are building is important, then we should structure the incentives to attract more smart people to work on it. After all - “Ethereum is an unprecedented arena for playing cooperative games”; we should try to manifest the novel possibilities made possible by this arena. ([Griffith, 2019](https://medium.com/@virgilgr/ethereum-is-game-changing-technology-literally-d67e01a01cf8))
+
+### What is the Protocol Guild?
+
+The Protocol Guild aims to address the challenges mentioned above with a simple tool: a weighted split contract that includes vesting. Members will solicit sponsorships in the form of tokens from applications & protocols that build on Ethereum, which gives core contributors exposure to success at the application layer:
+
+* current contributors are rewarded for past work through [time-based weighting](https://protocol-guild.readthedocs.io/en/latest/6-guidelines-for-regular-operation.html#weighting)
+* current contributors contribute for longer periods, resulting in less contributor churn, better institutional knowledge transfer, and more stable core infrastructure
+* new contributors are incentivized to join core protocol work, protocol evolution and maintenance is more robust
+
+To date, the membership includes over 110 Ethereum protocol contributors, including researchers, client maintainers, upgrade coordinators, and more, all self-curated (member list [here](https://protocol-guild.readthedocs.io/en/latest/9-membership.html)). This is a broad-based ecosystem effort: members come from 22 different teams and 9 organizations. Only 30% of members are directly employed by the EF. The membership is continuously curated and there are quarterly updates to the split contract.
+
+The Guild contracts will act as an autonomous value routing mechanism, operated independently from any existing institution, purpose-built for incentivizing long-term core protocol work. At no point does PG take custody of funds on behalf of members, it is all handled trustlessly. The diagram below and the [docs](https://protocol-guild.readthedocs.io/en/latest/3-smart-contract.html) have more information.
+
+ 
+![0xsplits horizontal.png](ipfs://QmdpmizBcNGuVV5FZR4zLUz3wsYTTdfNpVZsywMC7Utpdo)
+    
+
+### PG Pilot
+
+Since starting the project in Nov 2021, we’ve built norms around member onboarding, refined the splitting and vesting mechanisms, and have created extensive documentation on how PG operates. At this point, we’re ready to test the mechanism’s efficacy with a 1 year / $10-20mm Pilot. We want to make sure the mechanism operates smoothly before graduating to a larger round with longer vesting periods. We are currently outreaching to 5-10 prominent Ethereum-based projects to get commitments for this important first milestone. We want to ensure there is a healthy diversity of contributing protocols both in terms of USD value as well as domain (eg. DeFi, staking, etc). The first commitment is from Lido to contribute [2,000,000 LDO](https://research.lido.fi/t/proposal-to-fund-the-protocol-guild-pilot-via-a-lido-grant/2016/1), and the [vote](https://snapshot.org/#/ens.eth/proposal/0xe07284156fb063d5fba6b9fed50cc74fad36ea02c2ede0207434db476884104b) ([forum post](https://discuss.ens.domains/t/ep13-executable-support-the-protocol-guild-pilot/12877/50)) to contribute 200k ENS will conclude in the next few days.
+
+The funds for the Pilot would be vested directly to Guild members over one year: see the [Pilot vesting contract here](https://app.0xsplits.xyz/accounts/0xF29Ff96aaEa6C9A1fBa851f74737f3c069d4f1a9/). Note that funds would not replace salaries for core contributors, and each recipient would be making an independent decision about how to use their tokens once vested.
+
+### Proposal
+
+We are inviting the Uniswap community to be part of this inaugural Pilot in the form of a 500k UNI transfer to the Protocol Guild’s vesting contract. We think this is an appropriate amount which balances between the current size of the treasury ([$1.2b as of May 16, 2022](https://openorgs.info/)), the number of beneficiaries, and the scope and intent of the Pilot.
+
+There are a few reasons why supporting the Protocol Guild benefits the Uniswap community:
+
+* Uniswap’s long-term success is tightly coupled with the continued evolution and maintenance of the Ethereum protocol. These are projects that often have multi-year timelines. Contributing to the Pilot meaningfully increases the incentive to contribute to the core protocol, including:
+  * [The Merge](https://github.com/ethereum/pm/blob/master/Merge/mainnet-readiness.md): moving from PoW to PoS, increasing security and sustainability
+  * EVM improvements: new functionality for developers like [EOF](https://notes.ethereum.org/@ipsilon/evm-object-format-overview)
+  * [Statelessness](https://notes.ethereum.org/@gballet/Sy-a6T5St): sustainable management for state growth
+  * Supporting L2 scaling: [EIP-4844](https://eips.ethereum.org/EIPS/eip-4844), [EIP-4488](https://eips.ethereum.org/EIPS/eip-4488)
+  * [Proposer Builder Separation](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance): reducing centralizing incentives for consensus participants
+  * Continuous client maintenance: improving sync, exploring new database types, researching modular clients
+  * Coordinating network upgrades: making sure the community helps to shape and is aware of network upgrades
+* Having exposure to UNI allows protocol contributors to engage more with Uniswap governance. Members will be encouraged (but not obligated) to use the vested tokens in their respective governance framework.
+* Uniswap should be among the protocols maximally aligned with the Public Goods of the largest ecosystem it operates in. Pilot participation maintains and expands the Uniswap community’s existing reputation for funding Public Goods.
+* Diverse funding sources from the community further decentralizes protocol governance and prevents influence from pooling with any single entity.
+
+### Next Steps
+
+If this Temp Check Snapshot vote has a positive outcome, we will move to a consensus check, and then an onchain vote.",1654183625,1654444800,"closed",1139,"Yes ;No","final","13703636.5651454;44.5022819593607","uniswap"
