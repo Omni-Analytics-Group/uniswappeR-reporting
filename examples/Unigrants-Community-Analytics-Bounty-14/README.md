@@ -2,21 +2,21 @@
 
 ## Objective
 
-For this bounty we are opting to "dip our toes" into the messy world of blockchain governance. Our question of interest is, "Can we visualize and quantify the degree of contentiousness of Uniswap proposals?' If it is possible, we'd like to use the derived statistics and graphs to provide initial insights into how contentious uniswap proposals are, and along with that, how cohesively the community views these proposals.
+For this bounty we are opting to "dip our toes" into the messy world of blockchain governance. Our question of interest is "Can we visualize and quantify the degree of contentiousness of Uniswap proposals?” If it is possible, we'd like to use the derived statistics and graphs to provide initial insights into how we might understand cohesion and dissent within the decentralized Uniswap community. 
 
 ## Data
 
-Our team created a specialized set of scrapers that pull all active and closed governance proposals listed on snapshot.page. The data is shown in the screenshot below. The key fields are the `choices` and `scores` field, which when combined, allow us to compute metrics on consensus and dissent. In total, the data covers 56 proposals, and includes 16 columns of attributes about those proposals.
+Our team created a specialized set of scrapers that pulled all active and closed governance proposals listed under Uniswap’s space on snapshot.page. Below is a screen capture of the data that show its comma separated structure. In total, the data covers 56 proposals, and includes 16 columns of attributes about those governance articles seeking ratification. For our analysis, the key fields are the `choices` and `scores`  which, when combined, allow us to compute metrics on consensus and dissent.
 
 ![A screencap of the Data](data.png)
 
 ## Analysis and Results
 
-We performed a data cleaning routine on this data. The key aspect of this cleaning is the parsing of the `choices` and `scores` column. Unlike traditional normal forms for data, multiple choices (and the scores for each choice) are encoded within individual rows. This meant that we had to perform a data cleaning routine where we **separate** out the individual components. We used `R` and `dplyr` to accomplish this.
+To initiate this analysis, we performed a data cleaning routine on this data to parse and remove special characters. The key aspect of this cleaning was the parsing of the choices and scores columns. Unlike traditional normal forms for data, multiple choices (and the scores for each choice) are encoded within individual rows. This meant that we had to separate out the individual components using string splitting routines. We used R and dplyr to accomplish this.  In doing so, we encountered one additional issue. Since the data itself was encoded such that the choices and scores are separated with the ";" character, one proposal presented a special challenge because within its choices it to a ";" character. This meant that the automated routine saw an additional choice option that wasn't in the original data. Once we special-cased this particular issue, we achieved a clean form for the data.  This afforded us the chance to create our first visualization characterizing Uniswap voter consensus.
 
-In doing so, we encountered one issue - because the data itself was encoded such that the choices and scores are separated with the `;` character, one proposal presented a challenge - one of the choices actually used a `;` character within the choice text. This meant that the automated routine saw an additional choice option that wasn't in the original data. Once we special-cased this particular issue, we achieved a clean form for the data.
+![Barcharts of the Scores for each Choice within Uniswap Proposals](final_barcharts_negated.png)
 
-The clean form of the data allowed us to generate the *dissent score*. Roughly speaking, the dissent score is computed as the sum of the scores of the least-common choices divided by the overall sum of the scores. For example, if a proposal has the choices:
+
 
 No/Yes
 
