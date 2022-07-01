@@ -16,18 +16,9 @@ To initiate this analysis, we performed a data cleaning routine on this data to 
 
 ![Barcharts of the Scores for each Choice within Uniswap Proposals](final_barcharts.png)
 
-At first glance, the obvious lack of general dissent is immediately obvious.  Of the 56 proposals, only 6 have any semblance of disagreement among the voters.  The vast majority of proposals pass above the 80% threshold. With these graphs we are able to visualize the overall community voter consensus, but we'd like to go a step further and quantify it. To do so we generated a simple "dissent" score. Roughly speaking, our dissent metric is computed as the sum of the scores of the least-common choices divided by the overall sum of the scores. For example, if a proposal has the choices:
-
-No | Yes
-
-With respective scores of:
-
-2 | 3
-
-The dissent score would be 2 / 5 = .4, implying a 40% dissent rate. Note that, likewise, if the voting distribution was 3 No’s and 2 Yes’es, this would also yield a 40% dissent score alluding to the property of symmetrical invariance within our metric. After computing these scores for every proposal out of the 56 in the dataset we constructed the following dataset:
+At first glance, the obvious lack of general dissent is immediately obvious.  Of the 56 proposals, only 6 have any semblance of disagreement among the voters.  The vast majority of proposals pass above the 80% threshold. With these graphs we are able to visualize the overall community voter consensus, but we'd like to go a step further and quantify it. To do so we generated a simple "dissent" score. Roughly speaking, our dissent metric is computed as the sum of the scores of the least-common choices divided by the overall sum of the scores. For example, if a proposal has the choices, *{No , Yes}* with respective scores of  *{2 , 3}* the dissent score would be 2 / 5 = .4, implying a 40% dissent rate. Note that, likewise, if the voting distribution was 3 No’s and 2 Yes’es, this would also yield a 40% dissent score alluding to the property of symmetrical invariance within our metric. After computing these scores for every proposal out of the 56 in the dataset we constructed the following dataset:
 
 ![Dissent data and Heatmap](dissent_heatmap.png)
-
 
 We ended up placing these scores on a pseudo-logscale and plotted their overall frequency to create the following figure.
 
