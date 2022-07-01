@@ -12,13 +12,13 @@ Using the `uniswappeR` package, we called the **get_liq_data** function to extra
 
 ## Analysis
 
-From here, we binded together the data around each token to create area plots that track the amount of liquidity added and removed over time.  To follow up, we produced cumulative area plots that show the total amount of liquidity of each. The areas are colored by whether, at the particular time points, the liquidity for each of the nine tokens was positive. Added liquidity is shown in green, while removed liquidity is shown in bed. The overall blue area comprises the total liquidity balance as a function of time.
+From here, we binded together the data around each token to create area plots that track the amount of liquidity added and removed over time.  To follow up, we produced cumulative area plots that show the total amount of liquidity of each. The areas are colored by whether, at the particular time points, the liquidity for each of the nine tokens was positive. Added liquidity is shown in green, while removed liquidity is shown in red. The overall blue area comprises the total liquidity balance as a function of time.
 
 ![The results](AirdropLiq.jpeg)
 
 ## Results
 
-We see that the trend in liquidity added/removed over time is highly dependent on the token. For example, $PSP shows a significant amount of added/removed liquidity at the beginning, with this leveling out significantly later on. This stands in contrast to, for example, $BADGER, which showed the largest amount of added/removed liquidity towards the end of the two week period. As a general rule, across the nine tokens, liquidity was added more frequently than removed, and that has yielded positive liquidity balances across the board.
+We see that the trend in liquidity added/removed over time is highly dependent on the token with the maximum liquidity provided over the first two weeks topping out at over $50 million for $UNI while it stayed at a lowly, stagnant $30,000 for $PAINT. From a macro perspective, there is a substantial amount of diversity in the shape of the cumulative amount of liquidity provided.  Uniswap experience a logarithmic rise to its plataeu as it reached its $50M saturation mark in only 5 days. Gitcoin, the Hop Protocol, and Murall, to a lesser extent, all had the same trend within their cumulative liquidity amounts. The EPNS protocol had a growth pattern more similar to an "S curve" where, after a slow start marred with a lack of liquidity, providers swooped in later to inject $3M over the course of a week, then the deposits tapered off. Paraswap unfortunately  For example, $PSP shows a significant amount of added/removed liquidity at the beginning, with this leveling out significantly later on. This stands in contrast to, for example, $BADGER, which showed the largest amount of added/removed liquidity towards the end of the two week period. As a general rule, across the nine tokens, liquidity was added more frequently than removed, and that has yielded positive liquidity balances across the board.
 
 ## Conclusion
 
